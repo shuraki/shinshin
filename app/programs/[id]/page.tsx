@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { Program, ProgramCycle, Organization } from '@/lib/types';
 import { loadPrograms, loadOrganizations, loadCycles } from '@/lib/data-loader';
+import { translate } from '@/lib/translations';
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -75,30 +76,20 @@ export default function ProgramPage({ params: paramsPromise }: PageProps) {
         <section className="mb-12 grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="p-6 border border-slate-200 rounded-lg">
             <h3 className="font-bold text-slate-900 mb-2">מסוג מסגרת</h3>
-            <p className="text-slate-700">{program.framework_type}</p>
+            <p className="text-slate-700">{translate('frameType', program.framework_type)}</p>
           </div>
 
           <div className="p-6 border border-slate-200 rounded-lg">
             <h3 className="font-bold text-slate-900 mb-2">סדר חיים</h3>
             <p className="text-slate-700">
-              {program.living_arrangement === 'commune'
-                ? 'קומונה (חיים משותפים)'
-                : program.living_arrangement === 'commuter'
-                ? 'הקומוטרים (חיים בבית)'
-                : 'לא ידוע'}
+              {translate('livingArrangement', program.living_arrangement)}
             </p>
           </div>
 
           <div className="p-6 border border-slate-200 rounded-lg">
             <h3 className="font-bold text-slate-900 mb-2">מבנה קבוצה</h3>
             <p className="text-slate-700">
-              {program.gender_structure === 'mixed'
-                ? 'מעורב'
-                : program.gender_structure === 'boys_only'
-                ? 'בנים בלבד'
-                : program.gender_structure === 'girls_only'
-                ? 'בנות בלבד'
-                : 'לא ידוע'}
+              {translate('genderStructure', program.gender_structure)}
             </p>
           </div>
 
@@ -162,7 +153,7 @@ export default function ProgramPage({ params: paramsPromise }: PageProps) {
                   key={cat}
                   className="px-4 py-2 bg-slate-100 rounded-full text-slate-700 text-sm font-medium"
                 >
-                  {cat}
+                  {translate('activityCategory', cat)}
                 </span>
               ))}
             </div>
@@ -222,7 +213,7 @@ export default function ProgramPage({ params: paramsPromise }: PageProps) {
         {cycle && (
           <section className="p-6 bg-slate-50 rounded-lg border border-slate-200 text-sm text-slate-600">
             <p>✓ נבדק בתאריך: {new Date(cycle.last_verified_at).toLocaleDateString('he-IL')}</p>
-            <p>רמת ביטחון: {cycle.confidence_level}</p>
+            <p>רמת ביטחון: {translate('confidenceLevel', cycle.confidence_level)}</p>
           </section>
         )}
       </div>
