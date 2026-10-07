@@ -1,0 +1,605 @@
+[
+  {
+    "org_key": "aharai",
+    "name_he": "אחריי! נוער מוביל שינוי",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"איפה עושים את שנת השירות? בכל הארץ, הקומונות שלנו הן עירוניות ופרוסות מקצרין שבצפון, גוש דן ועד דימונה שבדרום.\" – https://aharai.org.il/shnat-sherut/ ; מופיעה ברשימת הגופים המשלחים לשנת שירות של משרד הביטחון – https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+    "official_website": {
+      "url": "https://aharai.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://aharai.org.il/shnat-sherut/",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://aharai.org.il/shnat-sherut/",
+      "status": "ok (טופס 'לפרטים נוספים והרשמה' מוטמע בעמוד)"
+    },
+    "program_name_he": "שנת השירות של אחריי!",
+    "description_he": "אחריי! היא עמותה חינוכית שפועלת לפיתוח מנהיגות ומסוגלות בקרב בני נוער, בדגש על הפריפריה הגאוגרפית והחברתית. מתנדבי שנת השירות גרים בקומונות עירוניות מקצרין ועד דימונה, מובילים פרויקטים חינוכיים בבתי ספר ובקהילה ולוקחים חלק בצוותי קבוצות ההכנה לצה\"ל של העמותה. תהליך המיון כולל סמינר מיון של יום אחד וראיון אישי.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "community"
+    ],
+    "regions": [
+      "national"
+    ],
+    "locations_he": [
+      "קצרין",
+      "גוש דן",
+      "דימונה",
+      "כרמיאל"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"הקומונות שלנו הן עירוניות ופרוסות מקצרין שבצפון, גוש דן ועד דימונה שבדרום\" – https://aharai.org.il/shnat-sherut/ ; כרמיאל: ציטוט בוגרת \"בוגרת ש\"ש אחריי, קומונת כרמיאל\" – https://coyo.org.il/%D7%A9%D7%A0%D7%AA-%D7%A9%D7%99%D7%A8%D7%95%D7%AA/ (משני)",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"כל אחד ואחת עם מוטיבציה לעשות!\"; בטופס ההרשמה שדה מגדר: \"בן / בת\" – https://aharai.org.il/shnat-sherut/ (פתוח לשני המינים; הרכב הקומונות לא צוין במפורש)",
+    "religious_character": "unknown",
+    "religious_evidence": "לא צוין באתר הארגון. ברשימת משרד הביטחון (2015) קהל היעד: \"חילונים, דתיים, עולים, נוער נורמטיבי\" – https://noar.mod.gov.il/CommunityService/Pages/organizations.aspx",
+    "requires_movement_membership": false,
+    "nahal_option": "unknown",
+    "framework_type": "social_organization",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": "סמינר מיון חד-יומי (מיומנויות קבוצתיות וחברתיות) וראיון אישי",
+      "evidence": "https://aharai.org.il/shnat-sherut/"
+    },
+    "contact": {
+      "phone": "058-6905115",
+      "email": null,
+      "evidence_url": "https://aharai.org.il/contact/"
+    },
+    "sources": [
+      {
+        "url": "https://aharai.org.il/shnat-sherut/",
+        "title": "שנת השירות של אחריי!",
+        "type": "official",
+        "supports": "is_shnat_sherut, locations, living, selection, registration form, gender"
+      },
+      {
+        "url": "https://aharai.org.il/contact/",
+        "title": "אחריי! – יצירת קשר",
+        "type": "official",
+        "supports": "contact phone (\"שנות שירות: 058-6905115\")"
+      },
+      {
+        "url": "https://aharai.org.il/ourstory/",
+        "title": "אחריי! – הסיפור שלנו",
+        "type": "official",
+        "supports": "org description (periphery focus, \"מכינות יג' - שנת שירות\")"
+      },
+      {
+        "url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+        "title": "משרד הביטחון – האגף הביטחוני-חברתי: שנת שירות, רשימת הגופים המשלחים לשנת שירות",
+        "type": "government",
+        "supports": "is_shnat_sherut (recognized sending body), phone, website"
+      },
+      {
+        "url": "https://coyo.org.il/%D7%A9%D7%A0%D7%AA-%D7%A9%D7%99%D7%A8%D7%95%D7%AA/",
+        "title": "מועצת ארגוני הילדים והנוער – שנת שירות",
+        "type": "secondary",
+        "supports": "Karmiel commune, IDF-prep teams role"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "לא מצאנו מועד פתיחה או סגירה של ההרשמה למחזור 2027, מידע על דמי כיס או אפשרות למסלול נח\"ל.",
+    "notes": "Aharai also runs pre-army mechinot (מכינת ביחד, מכינת גל, תפארת הארזים, קודקוד) – separate from the service year. Old program URL aharai.org.il/שנת-שירות-2023/ redirects to /shnat-sherut/. Contact page lists several phones by department; 058-6905115 is labeled 'שנות שירות'. MoD list phone (03-6393959) is older/general."
+  },
+  {
+    "org_key": "ayalim",
+    "name_he": "עמותת איילים",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"הש״שינים שלנו פועלים בכל רחבי הארץ ומחזקים את העשייה הציונית בנגב, בגליל ובפריפריה החברתית של מדינת ישראל\" – https://www.ayalim.org.il/shinshin ; מופיעה ברשימת הגופים המשלחים לשנת שירות של משרד הביטחון – https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+    "official_website": {
+      "url": "https://www.ayalim.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://www.ayalim.org.il/shinshin",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://www.ayalim.org.il/shinshin",
+      "status": "ok (טופס השארת פרטים 'הצטרפו אלינו!' בעמוד)"
+    },
+    "program_name_he": "שנת שירות באיילים",
+    "description_he": "עמותת איילים פועלת מאז 2002 לחיזוק ההתיישבות והמעורבות החברתית בנגב, בגליל ובפריפריה החברתית, ומוכרת בעיקר בזכות כפרי הסטודנטים שלה. מתנדבי שנת השירות גרים בקומונה, לוקחים חלק בהקמת כפרי סטודנטים ושכונות בוגרים, פועלים בקהילה ומתנדבים במוקדים חינוכיים. אפשר להצטרף גם במסלול גרעין נח\"ל ולהתגייס יחד עם הגרעין בסוף השנה.",
+    "activities": [
+      "settlement",
+      "community",
+      "education",
+      "youth_mentoring"
+    ],
+    "regions": [
+      "north",
+      "south"
+    ],
+    "locations_he": [
+      "הנגב",
+      "הגליל"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"החיים בקומונה יפגישו אתכם עם חברים לכל החיים\" – https://www.ayalim.org.il/shinshin",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"מתנדבי ומתנדבות שנת השירות באיילים\" – https://www.ayalim.org.il/shinshin (פתוח לשני המינים; הרכב הקומונות לא צוין במפורש)",
+    "religious_character": "unknown",
+    "religious_evidence": "לא צוין באתר. ברשימת משרד הביטחון (2015) קהל היעד: \"חילוניים, עולים חדשים, דתיים, קיבוצניקים, מושבניקים\" – https://noar.mod.gov.il/CommunityService/Pages/organizations.aspx",
+    "requires_movement_membership": "unknown",
+    "nahal_option": true,
+    "framework_type": "settlement_movement",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": null,
+      "evidence": "https://www.ayalim.org.il/shinshin"
+    },
+    "contact": {
+      "phone": "08-6550850",
+      "email": "office@ayalim.org.il",
+      "evidence_url": "https://www.ayalim.org.il/shinshin"
+    },
+    "sources": [
+      {
+        "url": "https://www.ayalim.org.il/shinshin",
+        "title": "שנת שירות | עמותת איילים",
+        "type": "official",
+        "supports": "is_shnat_sherut, activities, commune, Nahal track, regions, contact"
+      },
+      {
+        "url": "https://www.ayalim.org.il/",
+        "title": "עמותת איילים – דף הבית",
+        "type": "official",
+        "supports": "official website, program list"
+      },
+      {
+        "url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+        "title": "משרד הביטחון – האגף הביטחוני-חברתי: שנת שירות, רשימת הגופים המשלחים לשנת שירות",
+        "type": "government",
+        "supports": "is_shnat_sherut (recognized sending body), phone, website"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "לא מצאנו פירוט של יישובי הקומונות, מועדי הרשמה ומיונים או מידע על דמי כיס.",
+    "notes": "Ayalim's core is student villages, but it does run a pre-army ש\"ש (גרעין שנת שירות) with an optional Nahal garin track; site says the Nahal garin will lead settlement in Otef Aza. Site is Wix; text extracted from server HTML."
+  },
+  {
+    "org_key": "hashomer-hachadash",
+    "name_he": "השומר החדש",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"שנות השירות של השומר החדש ... מיועדות לבוגרי ובוגרות י״ב שרוצים להקדיש שנה לעשייה משמעותית לפני השירות הצבאי.\" – https://www.hashomer.org.il/young-leadership-main/pre-military/ ; מופיע ברשימת הגופים המשלחים לשנת שירות של משרד הביטחון – https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+    "official_website": {
+      "url": "https://www.hashomer.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://www.hashomer.org.il/young-leadership-main/pre-military/",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://www.hashomer.org.il/young-leadership-main/pre-military/manhigut-program/",
+      "status": "ok (כפתור 'השאירו פרטים והצטרפו לתהליך המיון'; הטופס נטען דינמית ולא אומת)"
+    },
+    "program_name_he": "שנות השירות של השומר החדש (תוכנית המנהיגות בחקלאות, תוכנית המנהיגות בהתיישבות ועוד)",
+    "description_he": "השומר החדש הוא ארגון שפועל לחיזוק החקלאות וההתיישבות בישראל. שנות השירות שלו מיועדות לבוגרי ובוגרות י\"ב, וכוללות חיים בקומונה, עבודה חקלאית לצד חקלאים, הדרכת בני נוער וסדרות שטח. יש כמה מסלולים: תוכנית המנהיגות בחקלאות, תוכנית המנהיגות בהתיישבות שמשולבת בגרעין נח\"ל, שנת שירות בתנועת נוער השומר ושנת שירות בבתי הספר של רשת \"אדם ואדמה\".",
+    "activities": [
+      "agriculture",
+      "settlement",
+      "education",
+      "youth_mentoring",
+      "community",
+      "hiking"
+    ],
+    "regions": [
+      "national"
+    ],
+    "locations_he": [
+      "כל הארץ",
+      "מרחבי הגבול",
+      "בתי ספר 'אדם ואדמה' בצפון ובדרום"
+    ],
+    "living_arrangement": "mixed",
+    "living_evidence": "רוב המסלולים בקומונה: \"במהלך השנה חיים בקומונה\" – https://www.hashomer.org.il/young-leadership-main/pre-military/ ; במסלול אדם ואדמה: \"כוללת מגורים וכלכלה באחד משמונת בתי הספר של הרשת בצפון ובדרום\" – שם",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"מיועדות לבוגרי ובוגרות י״ב\" – https://www.hashomer.org.il/young-leadership-main/pre-military/ ; \"יוצאים כחבורה מגובשת של בנים ובנות\" – https://www.hashomer.org.il/young-leadership-main/garin-nahal/",
+    "religious_character": "unknown",
+    "religious_evidence": "לא הוגדר אופי דתי. בערכי התוכנית: \"פיתוח זהות ישראלית, ציונית ויהודית מגוונת\" – https://www.hashomer.org.il/young-leadership-main/pre-military/manhigut-program/",
+    "requires_movement_membership": false,
+    "nahal_option": true,
+    "framework_type": "social_organization",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": "השארת פרטים, הזמנה לימי מיון (\"מלאו את הפרטים ונחזור אליכם עם תאריכי ימי המיון הקרובים\")",
+      "evidence": "https://www.hashomer.org.il/young-leadership-main/pre-military/manhigut-program/"
+    },
+    "contact": {
+      "phone": "*9263",
+      "email": null,
+      "evidence_url": "https://www.hashomer.org.il/"
+    },
+    "sources": [
+      {
+        "url": "https://www.hashomer.org.il/young-leadership-main/pre-military/",
+        "title": "שנות השירות של השומר החדש",
+        "type": "official",
+        "supports": "is_shnat_sherut, tracks, commune, gender, Nahal"
+      },
+      {
+        "url": "https://www.hashomer.org.il/young-leadership-main/pre-military/manhigut-program/",
+        "title": "תוכנית המנהיגות בחקלאות",
+        "type": "official",
+        "supports": "13-month track, 180 participants in teams of up to 15, selection days"
+      },
+      {
+        "url": "https://www.hashomer.org.il/young-leadership-main/pre-military/manhigut-program-2/",
+        "title": "תוכנית המנהיגות בהתיישבות",
+        "type": "official",
+        "supports": "4-year track: ש\"ש + Nahal garin + settlement mission"
+      },
+      {
+        "url": "https://www.hashomer.org.il/young-leadership-main/garin-nahal/",
+        "title": "גרעין הנח\"ל של השומר החדש",
+        "type": "official",
+        "supports": "Nahal, mixed gender"
+      },
+      {
+        "url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+        "title": "משרד הביטחון – האגף הביטחוני-חברתי: שנת שירות, רשימת הגופים המשלחים לשנת שירות",
+        "type": "government",
+        "supports": "is_shnat_sherut (recognized sending body), phone, website"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "לא מצאנו באתר מועדי הרשמה ומיונים למחזור 2027, מידע על דמי כיס או רשימת יישובים מדויקת.",
+    "notes": "Org also runs mechinot, שירות לאומי and Nahal garinim – listed separately on the site. 'שנת שירות בנוער השומר' is inside its own youth movement (נוער השומר); 'אדם ואדמה' track has its own page at https://adam-adama.co.il/שנת-שירות/ (not fetched). MoD list phone: 050-8818206. hashomer-hachadash.org.il does not resolve; correct domain is hashomer.org.il."
+  },
+  {
+    "org_key": "etgarim",
+    "name_he": "עמותת אתגרים",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"ההרשמה לשנת השירות 2027-2028 נפתחה.\"; \"מי מתאימים/ות להיות ש\"ש באתגרים? צעירים/ות לפני צבא...\" – https://etgarim.org/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa-2/ ; מופיעה ברשימת הגופים המשלחים לשנת שירות של משרד הביטחון – https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+    "official_website": {
+      "url": "https://etgarim.org/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://etgarim.org/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa-2/",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=s4ceAptzF0ORt-UVvDWi-gMNuUv67a1Iqp0n9LhwCGpURFg3U0hYQlVCR0xORFg4V1dMOTRXVUdIRy4u",
+      "status": "ok (Microsoft Forms, קישור מעמוד התוכנית)"
+    },
+    "program_name_he": "שנת שירות באתגרים",
+    "description_he": "עמותת אתגרים מקדמת העצמה ושילוב חברתי של ילדים, בני נוער ובוגרים עם מוגבלות באמצעות ספורט אתגרי בטבע. מתנדבי שנת השירות עוברים הכשרה ומדריכים קבוצות, בעיקר ברכיבה על אופניים, בפעילות חבלים ובשייט. הם גרים בקומונות בדירות שהעמותה שוכרת, ותהליך המיון כולל כנס מידע, יום מיון וראיון אישי.",
+    "activities": [
+      "sports",
+      "disability_support",
+      "nature_environment"
+    ],
+    "regions": [
+      "center",
+      "haifa_valley"
+    ],
+    "locations_he": [
+      "תל אביב",
+      "חולון",
+      "קריית מוצקין"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"הש\"ש מתגוררים במספר קומונות בדירות שכורות של העמותה. מחזור הש\"שינים כולל השנה - תשפ\"ד – 22 ש\"ש, שגרים ב - 3 קומונות; בת\"א, בחולון ובקריית מוצקין\" – https://etgarim.org/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa-2/",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"צעירים/ות לפני צבא\" – https://etgarim.org/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa-2/ (פתוח לשני המינים; הרכב הקומונות לא צוין במפורש)",
+    "religious_character": "unknown",
+    "religious_evidence": "לא הוגדר אופי דתי. לגבי שבת: \"הפעילויות מתקיימות בימים ראשון עד שישי בשעות הבוקר ו/או אחר הצהריים לעיתים גם בשבת.\" – https://etgarim.org/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa-2/",
+    "requires_movement_membership": "unknown",
+    "nahal_option": "unknown",
+    "framework_type": "social_organization",
+    "cycle": {
+      "registration_status": "open",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": "רישום בקישור באתר, כנס מידע למועמדים, יום מיון וראיון אישי",
+      "evidence": "https://etgarim.org/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa-2/"
+    },
+    "contact": {
+      "phone": "03-5613585",
+      "email": "frontdesk@etgarim.org",
+      "evidence_url": "https://etgarim.org/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa-2/"
+    },
+    "sources": [
+      {
+        "url": "https://etgarim.org/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa-2/",
+        "title": "שנת שירות | עמותת אתגרים",
+        "type": "official",
+        "supports": "is_shnat_sherut, registration open 2027-2028, activities, communes, selection, contact, Shabbat note"
+      },
+      {
+        "url": "https://etgarim.org/",
+        "title": "עמותת אתגרים – דף הבית",
+        "type": "official",
+        "supports": "official website"
+      },
+      {
+        "url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+        "title": "משרד הביטחון – האגף הביטחוני-חברתי: שנת שירות, רשימת הגופים המשלחים לשנת שירות",
+        "type": "government",
+        "supports": "is_shnat_sherut (recognized sending body), phone, website"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "רשימת הקומונות באתר מתייחסת לשנת תשפ\"ד, ולכן ייתכן שהמיקומים במחזור 2027 שונים; לא מצאנו מועד אחרון להרשמה או מידע על דמי כיס.",
+    "notes": "Etgarim also offers שירות לאומי (separate page). Commune locations are from the תשפ\"ד (2023-24) cohort text – may be stale. Activities may include Shabbat (explicitly stated)."
+  },
+  {
+    "org_key": "noar-leumi-betar",
+    "name_he": "תנועת הנוער הלאומי-בית\"ר",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"גרעין המח\"ר הינו גרעין שנת שירות מבית הנוער הלאומי בית\"ר\" – https://www.nlb.org.il/_files/ugd/696dfb_06331f7a3f6d461d8e089a616c2cc807.pdf (חוברת, נוצרה ב-2022) ; מופיעה ברשימת הגופים המשלחים לשנת שירות של משרד הביטחון בשם \"תנועת הנוער הלאומי - בית\"ר\" – https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+    "official_website": {
+      "url": "https://www.nlb.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://www.nlb.org.il/shinshin",
+      "status": "ok (עמוד דל בתוכן: קישורים לחוברת שנת שירות ולהרשמה לסמינר מיונים)"
+    },
+    "registration_page": {
+      "url": "https://goo.gl/forms/nBmSjmmqRJs1QXZB2",
+      "status": "ok (Google Forms; כותרת הטופס \"שנת שירות בסיירת>> יום מיון אחרון!\" – ייתכן שהוא ישן)"
+    },
+    "program_name_he": "שנת שירות בנוער הלאומי – גרעין המח\"ר",
+    "description_he": "תנועת הנוער הלאומי-בית\"ר היא תנועת נוער ציונית-חברתית שמחנכת לפי משנתו החברתית של זאב ז'בוטינסקי. לפי חומרי התנועה, בשנת השירות שלה (\"גרעין המח\"ר\") יש שני מסלולים: מסלול פנימיות, שבו מלווים בני נוער בסיכון, ומסלול קהילה, שבו פועלים בבתי ספר ובסניפי התנועה. בוגרי שנת השירות יכולים להתגייס יחד כגרעין נח\"ל.",
+    "activities": [
+      "at_risk_youth",
+      "education",
+      "youth_mentoring",
+      "community"
+    ],
+    "regions": [],
+    "locations_he": [],
+    "living_arrangement": "commune",
+    "living_evidence": "בחוברת: \"מפגש ליווי קומונה\"; במכתב מיון מ-2018: \"ישובץ בשנת השירות במסלול ובקומונה המתאימה לו/לה\" – https://www.nlb.org.il/_files/ugd/60fe5a_8b0ca40a3a6c485694f86052d0414502.pdf",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"בני ובנות הגרעין משרתים בצבא\" – https://www.nlb.org.il/nahal ; \"שכל אחד ואחת מכם... ישובץ\" – מכתב 2018",
+    "religious_character": "unknown",
+    "religious_evidence": "לא הוגדר אופי דתי לשנת השירות. ברשימת משרד הביטחון (2015) קהל היעד: \"חילונים, מסורתיים, דתיים, עולים חדשים\". במכתב סמינר המיון (2018): \"האוכל בסמינר מבושל לפני שבת ומחומם על גבי פלטות חימום. במהלך הסמינר תתקיים קבלת שבת והדלקת נרות.\"",
+    "requires_movement_membership": "unknown",
+    "nahal_option": true,
+    "framework_type": "youth_movement",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": "ראיונות אישיים, סמינר מיון וחתימה (לפי החוברת מ-2022)",
+      "evidence": "https://www.nlb.org.il/_files/ugd/696dfb_06331f7a3f6d461d8e089a616c2cc807.pdf"
+    },
+    "contact": {
+      "phone": "08-9523844",
+      "email": "info@nlb.org.il",
+      "evidence_url": "https://www.nlb.org.il/"
+    },
+    "sources": [
+      {
+        "url": "https://www.nlb.org.il/shinshin",
+        "title": "תנועת הנוער הלאומי-בית\"ר – שנת שירות",
+        "type": "official",
+        "supports": "program page, links to brochure and selection-seminar form"
+      },
+      {
+        "url": "https://www.nlb.org.il/_files/ugd/696dfb_06331f7a3f6d461d8e089a616c2cc807.pdf",
+        "title": "חוברת גרעין המח\"ר (2022)",
+        "type": "official",
+        "supports": "tracks (boarding schools/at-risk youth, community), selection steps, commune"
+      },
+      {
+        "url": "https://www.nlb.org.il/_files/ugd/60fe5a_8b0ca40a3a6c485694f86052d0414502.pdf",
+        "title": "מכתב סמינר מיון לשנת שירות (12/2018)",
+        "type": "official",
+        "supports": "commune placement, Shabbat observance at seminar"
+      },
+      {
+        "url": "https://www.nlb.org.il/nahal",
+        "title": "נח\"ל – תנועת הנוער הלאומי-בית\"ר",
+        "type": "official",
+        "supports": "Nahal garin option, mixed"
+      },
+      {
+        "url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+        "title": "משרד הביטחון – האגף הביטחוני-חברתי: שנת שירות, רשימת הגופים המשלחים לשנת שירות",
+        "type": "government",
+        "supports": "is_shnat_sherut (recognized sending body), phone, website"
+      }
+    ],
+    "confidence": "low",
+    "gaps_he": "חומרי שנת השירות באתר התנועה הם מהשנים 2018–2022, ולא מצאנו אישור לכך שהתוכנית פועלת גם במחזור 2027 או פרטים על מיקומי הקומונות.",
+    "notes": "Do NOT confuse with betar.org.il ('בית\"ר עולמית'), which runs 'שנת בית\"ר' – a Masa program for diaspora youth, not an Israeli pre-army ש\"ש. Israeli ש\"ש body is תנועת הנוער הלאומי-בית\"ר (nlb.org.il), listed by MoD with phone 052-6177698. The org's own Nahal page says the service-year enterprise was discontinued for years and has been revived 'in recent years' (undated). Homepage shows a typo email info@nlb.org.ii; footer has info@nlb.org.il. Recommend phoning to confirm before listing."
+  },
+  {
+    "org_key": "mda",
+    "name_he": "מגן דוד אדום בישראל",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "מד\"א מופיע ברשימת \"גופים משלחים לשנת שירות\" של משרד הביטחון (מס' 20, \"מד\"א | 03-9101101\") – https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx ; \"שנת השירות במד”א היא שנת שירות שבה יקבלו החניכים כלים והכשרות שיסייעו להם לעסוק בניהול מתנדבים בתפקידים שונים\" – https://coyo.org.il/%D7%A9%D7%A0%D7%AA-%D7%A9%D7%99%D7%A8%D7%95%D7%AA/ (משני)",
+    "official_website": {
+      "url": "https://www.mdais.org/",
+      "status": "unknown (האתר החזיר HTTP 247 – חסימת בוטים; לא נטען בבדיקה אוטומטית)",
+      "belongs_to_org": true
+    },
+    "program_page": null,
+    "registration_page": {
+      "url": "https://irgunoar.formtitan.com/ftproject/301a",
+      "status": "ok (טופס ההרשמה המשותף של מועצת ארגוני הילדים והנוער – לא של מד\"א ישירות)"
+    },
+    "program_name_he": "שנת שירות במד\"א",
+    "description_he": "מגן דוד אדום הוא ארגון ההצלה הלאומי של ישראל לרפואה דחופה ולשירותי דם. לפי מועצת ארגוני הילדים והנוער, שנת השירות במד\"א נפתחת בקורס חובשים ובהכשרות לניהול מתנדבים, ואחר כך המתנדבים משתלבים בתפקידים במחלקת המתנדבים ברחבי הארץ ומובילים את מערך מתנדבי הנוער של הארגון.",
+    "activities": [
+      "medical_emergency",
+      "youth_mentoring"
+    ],
+    "regions": [
+      "national"
+    ],
+    "locations_he": [],
+    "living_arrangement": "unknown",
+    "living_evidence": "לא צוין במקורות שנבדקו.",
+    "gender_structure": "unknown",
+    "gender_evidence": "לא צוין במקורות שנבדקו.",
+    "religious_character": "unknown",
+    "religious_evidence": "לא צוין במקורות שנבדקו.",
+    "requires_movement_membership": "unknown",
+    "nahal_option": "unknown",
+    "framework_type": "other",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": null,
+      "evidence": "https://coyo.org.il/%D7%A9%D7%A0%D7%AA-%D7%A9%D7%99%D7%A8%D7%95%D7%AA/"
+    },
+    "contact": {
+      "phone": "03-9101101",
+      "email": null,
+      "evidence_url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx"
+    },
+    "sources": [
+      {
+        "url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+        "title": "משרד הביטחון – האגף הביטחוני-חברתי: שנת שירות, רשימת הגופים המשלחים לשנת שירות",
+        "type": "government",
+        "supports": "is_shnat_sherut (recognized sending body), phone, website"
+      },
+      {
+        "url": "https://coyo.org.il/%D7%A9%D7%A0%D7%AA-%D7%A9%D7%99%D7%A8%D7%95%D7%AA/",
+        "title": "מועצת ארגוני הילדים והנוער – שנת שירות (עמוד מתייחס לתשפ\"ה)",
+        "type": "secondary",
+        "supports": "program description (paramedic/medic course, volunteer-department roles, national deployment), joint registration form"
+      },
+      {
+        "url": "https://coyo.org.il/organization/%D7%9E%D7%93%D7%90/",
+        "title": "ארגון נוער מד\"א: שנת שירות במד\"א – מועצת ארגוני הילדים והנוער",
+        "type": "secondary",
+        "supports": "MDA youth org background; phone 03-9101101"
+      }
+    ],
+    "confidence": "low",
+    "gaps_he": "לא הצלחנו לטעון את אתר מד\"א הרשמי, ולכן לא אומתו פרטי המגורים, ההרשמה למחזור 2027, המיון ודמי הכיס.",
+    "notes": "MDA also takes שירות לאומי volunteers through national-service bodies (e.g. Shlomit, Shilo) – those are NOT ש\"ש. www.mdais.org is behind Reblaze bot protection (HTTP 247 for curl, WebFetch and headless Chromium). The MoD list's URL 'www.madais.org' is a typo and does not resolve. mdaisrael.org.il is a youth-volunteering site of unclear ownership, not used. The COYO page text references registration for תשפ\"ה (2024-25), so it may be stale. Verify with MDA (03-9101101) before publishing."
+  },
+  {
+    "org_key": "hechalutz-midrasha-oranim",
+    "name_he": "החלוץ (מיסודה של המדרשה באורנים)",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"מתלבטים בין שנת שירות למכינה? לא צריך לבחור. בואו אלינו לשנת שירות החלוץ, שנת שירות מכינתית.\"; \"ההרשמה לתשפ\"ח תיפתח ב-15.9.26\" – https://hechalutz.com/programs/shnat-sherut/ ; \"תנועת החלוץ, מיסודה של המדרשה באורנים\" – https://hechalutz.com/ ; \"עמותת דרכים | 054-5725014 | www.hechalutz.com\" ברשימת הגופים המשלחים של משרד הביטחון – https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+    "official_website": {
+      "url": "https://hechalutz.com/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://hechalutz.com/programs/shnat-sherut/",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://hechalutz.com/programs/shnat-sherut/",
+      "status": "ok (טופס הרשמה מוטמע בעמוד)"
+    },
+    "program_name_he": "שנת שירות החלוץ – שנת שירות מכינתית",
+    "description_he": "תנועת החלוץ, שהקימה המדרשה באורנים, מפעילה \"שנת שירות מכינתית\" שמשלבת התנדבות בקהילה עם תהליך לימודי וקבוצתי כמו במכינה. המתנדבים גרים בקומונות ברחבי הארץ, עובדים עם ילדים ובני נוער ולומדים כארבעה שיעורים בשבוע. חלק מהקומונות פועלות ביישובי עוטף עזה ובגבול הצפון, ובחלקן מתנדבים גם בחקלאות.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "community",
+      "settlement",
+      "agriculture"
+    ],
+    "regions": [
+      "south",
+      "north",
+      "haifa_valley"
+    ],
+    "locations_he": [
+      "באר שבע",
+      "ניצנים",
+      "ניר יצחק",
+      "עין השלושה",
+      "עין הבשור",
+      "ארז",
+      "הרדוף/ציפורי",
+      "אדמית",
+      "קרית אתא",
+      "נשר",
+      "נהריה",
+      "כפר גליקסון",
+      "באר שבע \"השדה\"",
+      "חיפה"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"חיי הקבוצה בקומונה הם עשירים... הקומונה מתנהלת בעצמאות כלכלית\" – https://hechalutz.com/programs/shnat-sherut/",
+    "gender_structure": "mixed",
+    "gender_evidence": "בטופס ההרשמה שדה \"מגדר: זכר / נקבה / אחר\"; \"שוויון מגדרי\" מופיע בתחומי העיסוק של הארגון – https://hechalutz.com/programs/shnat-sherut/ (הרכב הקומונות לא צוין במפורש)",
+    "religious_character": "יהדות הומניסטית / פלורליסטית (לפי הצהרת הארגון)",
+    "religious_evidence": "\"תנועה לבניית מנהיגות חברתית ברוח מורשת החלוצות והחלוצים, הציונות והיהדות ההומניסטית\" – https://hechalutz.com/",
+    "requires_movement_membership": "unknown",
+    "nahal_option": true,
+    "framework_type": "social_organization",
+    "cycle": {
+      "registration_status": "open",
+      "open_date": "2026-09-15",
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": null,
+      "evidence": "https://hechalutz.com/programs/shnat-sherut/ (\"ההרשמה לתשפ\"ח תיפתח ב-15.9.26\" – המועד עבר, ולכן ההרשמה אמורה להיות פתוחה)"
+    },
+    "contact": {
+      "phone": "054-3466531",
+      "email": "shnatsherut@hechalutz.com",
+      "evidence_url": "https://hechalutz.com/programs/shnat-sherut/"
+    },
+    "sources": [
+      {
+        "url": "https://hechalutz.com/programs/shnat-sherut/",
+        "title": "שנת שירות – החלוץ",
+        "type": "official",
+        "supports": "is_shnat_sherut, cycle תשפ\"ח, 14 locations, commune, activities, Nahal, contact"
+      },
+      {
+        "url": "https://hechalutz.com/",
+        "title": "החלוץ – דף הבית",
+        "type": "official",
+        "supports": "link to Midrasha at Oranim, humanistic Judaism, program list (incl. Mechinat Rabin)"
+      },
+      {
+        "url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+        "title": "משרד הביטחון – האגף הביטחוני-חברתי: שנת שירות, רשימת הגופים המשלחים לשנת שירות",
+        "type": "government",
+        "supports": "is_shnat_sherut (recognized sending body), phone, website"
+      },
+      {
+        "url": "https://www.hamichlol.org.il/%D7%94%D7%9E%D7%93%D7%A8%D7%A9%D7%94_%D7%91%D7%90%D7%95%D7%A8%D7%A0%D7%99%D7%9D",
+        "title": "המכלול – אורנים, המדרשה באורנים",
+        "type": "secondary",
+        "supports": "Midrasha operates via עמותת דרכים supporting תנועת החלוץ"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "לא מצאנו מועד אחרון להרשמה, פירוט של תהליך המיון או מידע על דמי כיס.",
+    "notes": "The 'Midrasha at Oranim' ש\"ש is run under the HeChalutz brand (hechalutz.com), operated via עמותת דרכים (MoD list #30). The same org runs Mechinat Rabin and Mechinat Reut (pre-army mechinot) – separate programs. Program page's location header says 'למכינה יש ארבע עשרה שלוחות' (copy-paste wording) but the list sits under the ש\"ש program. tashpach (תשפ\"ח) = 2027-28 = the target cycle. Registration status 'open' is inferred from the stated opening date 15.9.26 (now past)."
+  }
+]

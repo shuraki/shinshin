@@ -1,0 +1,530 @@
+{
+  "official_list": {
+    "url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+    "status": "ok",
+    "cycle_year": "תשפ\"א (2020-21) — the page says 'בשנת תשפ\"א (2020) פועלים... כ-3600 מתנדבי שנת שירות, המגיעים מ-30 גופים משלחים'. SharePoint metadata: page last modified 2021-07-06. No newer official named list was found anywhere.",
+    "retrieved_at": "2026-10-07",
+    "notes": "HTTP 200 on 2026-10-07. Table title: 'גופים משלחים לשנת שירות'. Names and URLs copied exactly as written (URLs are the displayed text; Etgarim's URL is displayed but not hyperlinked; 'www.teva.projct.org.il' is a typo on the official page). Phone numbers also listed on page. Order = page order (מס\"ד 1-30). New MoD site (mod.gov.il/אגפים/אגף-ביטחוני-חברתי) still links to noar.mod.gov.il as the division's site. Knesset research (Dec 2022) reports 32 sending bodies (names not listed) — so this 30-name list is likely missing ~2+ newer bodies.",
+    "orgs": [
+      {
+        "name_he": "איגי- ארגון נוער גאה",
+        "url": "www.igy.org.il"
+      },
+      {
+        "name_he": "אחריי!",
+        "url": "http://www.aharai.org.il"
+      },
+      {
+        "name_he": "עמותת איילים",
+        "url": "www.ayalim.org.il"
+      },
+      {
+        "name_he": "עמותת אתגרים",
+        "url": "www.etgarim.org"
+      },
+      {
+        "name_he": "בינ\"ה- התנועה ליהדות חברתית",
+        "url": "www.bina.org.il"
+      },
+      {
+        "name_he": "תנועת בני עקיבא",
+        "url": "www.bneiakiva.org.il/hagshama/"
+      },
+      {
+        "name_he": "עמותת בקהילה",
+        "url": "www.bakehila.org.il"
+      },
+      {
+        "name_he": "האות הבינלאומי לנוער ולצעירים",
+        "url": "www.award.org.il"
+      },
+      {
+        "name_he": "תנועת האיחוד החקלאי",
+        "url": "www.ihudnik.co.il"
+      },
+      {
+        "name_he": "החברה להגנת הטבע",
+        "url": "www.teva.projct.org.il"
+      },
+      {
+        "name_he": "תנועת המחנות העולים",
+        "url": "www.hamahanot-haolim.org"
+      },
+      {
+        "name_he": "תנועת הנוער הלאומי - בית\"ר",
+        "url": "www.nlb.org.il"
+      },
+      {
+        "name_he": "תנועת הנוער העובד והלומד",
+        "url": "www.noal.org.il"
+      },
+      {
+        "name_he": "הסוכנות היהודית",
+        "url": "www.shlichut.org.il"
+      },
+      {
+        "name_he": "תנועת הצופים",
+        "url": "www.zofim.org.il"
+      },
+      {
+        "name_he": "תנועת השומר הצעיר",
+        "url": "www.hashomer-hazair.org"
+      },
+      {
+        "name_he": "התנועה הקיבוצית",
+        "url": "www.kibbutz.org.il"
+      },
+      {
+        "name_he": "חוגי סיור",
+        "url": "www.sayarut.org.il"
+      },
+      {
+        "name_he": "תנועת כנפיים של קרמבו",
+        "url": "www.krembo.org.il"
+      },
+      {
+        "name_he": "מד\"א",
+        "url": "www.madais.org"
+      },
+      {
+        "name_he": "תנועת מכבי צעיר",
+        "url": "www.mtz.org.il"
+      },
+      {
+        "name_he": "עמותת מרכז מעשה",
+        "url": "www.maase.org.il"
+      },
+      {
+        "name_he": "תנועת נוער מסורתי- נוע\"ם",
+        "url": "www.noamist.org"
+      },
+      {
+        "name_he": "צמר\"ת",
+        "url": "www.wzo.org.il"
+      },
+      {
+        "name_he": "קדימה לשובע",
+        "url": "www.lasova.org.il"
+      },
+      {
+        "name_he": "עמותת קדמה",
+        "url": "www.kedma-edu.org.il"
+      },
+      {
+        "name_he": "עמותת רקמה",
+        "url": "www.rikma.org.il"
+      },
+      {
+        "name_he": "תנועת תרבות",
+        "url": "www.tarbut-mov.co.il"
+      },
+      {
+        "name_he": "השומר החדש",
+        "url": "www.hashomer.org.il"
+      },
+      {
+        "name_he": "עמותת דרכים",
+        "url": "www.hechalutz.com"
+      }
+    ]
+  },
+  "other_lists_checked": [
+    {
+      "url": "https://noar.mod.gov.il/CommunityService/Pages/organizations.aspx",
+      "status": "ok (stale)",
+      "notes": "'תנועות וארגונים' page renders from SharePoint list 'תנועות ואירגונים' (read via _api): 20 items, all last modified 2015-07-09. Includes names absent from 2020 list: 'בני המושבים', 'מרכז מהפך', 'קצ\"ב'; lacks many 2020 names. Outdated — do not use."
+    },
+    {
+      "url": "https://noar.mod.gov.il/CommunityService/Pages/default.aspx",
+      "status": "ok",
+      "notes": "Service-year intro text only; no org list. Last modified 2015-11-04."
+    },
+    {
+      "url": "https://noar.mod.gov.il/CommunityService/Pages/%d7%98%d7%a4%d7%a1%d7%99%d7%9d.aspx",
+      "status": "ok",
+      "notes": "Forms page; links to MoD directive docx 'הוראת אגף ביטחוני חברתי – הכרה בגוף משלח לשנת שירות' (updated 31.5.2021, in force from 1.6.2021) — primary source for most rules below."
+    },
+    {
+      "url": "https://mod.gov.il/%D7%90%D7%92%D7%A4%D7%99%D7%9D/%D7%90%D7%92%D7%A3-%D7%91%D7%99%D7%98%D7%97%D7%95%D7%A0%D7%99-%D7%97%D7%91%D7%A8%D7%AA%D7%99",
+      "status": "ok",
+      "notes": "New MoD site page for אגף ביטחוני-חברתי. Describes service year in general; no org list; links back to noar.mod.gov.il."
+    },
+    {
+      "url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מסלולים-פרוייקטים-וקורסים/שנת-שירות/",
+      "status": "ok",
+      "notes": "IDF מתגייסים article (dated 12.12.2016, sitemap lastmod 2024-06-19). Facts on deferral/registration; no org list. Links to an edu.gov.il page that now redirects."
+    },
+    {
+      "url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מיטב/דחיית-גיוס-לטובת-מכינה-שנת-שירות-וגרעינים/",
+      "status": "ok",
+      "notes": "IDF מתגייסים article dated 23.11.2023 on deferral for mechina/service year/garinim. Registration deadline end of March of 12th grade; deferral decisions by 9 April. No org list."
+    },
+    {
+      "url": "https://www.edu.gov.il/owlHeb/AfterTichon/military-and-national-service/military-service/Pages/year-of-service.aspx",
+      "status": "broken",
+      "notes": "Old MoE page redirects to gov.il Ministry of Education landing page (content gone)."
+    },
+    {
+      "url": "https://students.education.gov.il/toward-military-service/service-year",
+      "status": "unknown",
+      "notes": "MoE students portal (Angular SPA). Its content API (ucms.education.gov.il/kidapi/api/Sp/GetDafSherut) returned an empty result; could not read any list."
+    },
+    {
+      "url": "https://www.gov.il/he/service/registration_for_national_service",
+      "status": "blocked",
+      "notes": "gov.il returns Cloudflare 403 to automated fetches; could not verify any gov.il page. Manual browser check recommended for a possible newer gov.il list."
+    },
+    {
+      "url": "https://www.kolzchut.org.il/he/התנדבות_לשנת_שירות",
+      "status": "blocked",
+      "notes": "Kol Zchut returned 403 (Cloudflare). Not used."
+    },
+    {
+      "url": "https://fs.knesset.gov.il/globaldocs/MMM/c35edf8e-8cf0-ec11-814d-005056aa4246/2_c35edf8e-8cf0-ec11-814d-005056aa4246_11_19871.pdf",
+      "status": "ok",
+      "notes": "Knesset Research Center 'בין תיכון לשירות' (18.12.2022). Per MoD reply: 32 sending bodies, ~3,690 volunteers at ~442 sites; 25 bodies get MoE funding, 4 declined funding, 3 new bodies in approval/trial. No names list."
+    },
+    {
+      "url": "https://coyo.org.il/%D7%A9%D7%A0%D7%AA-%D7%A9%D7%99%D7%A8%D7%95%D7%AA/",
+      "status": "ok (secondary)",
+      "notes": "מועצת ארגוני הילדים והנוער – 'גיו\"ש' shared registration for 18 service-year orgs (page still says registration for תשפ\"ה). Names shown: קדמה, גרעין מעשה, אחריי!, איגי, בקהילה, סח\"י - סיירת חסד ייחודית, האות הבינלאומי לנוער, השומר החדש, נוע\"ם, קדימה (רשת בתי הנוער), חוגי סיירות של קק\"ל, החברה להגנת הטבע, צמר\"ת, מד\"א, הסוכנות היהודית, התנועה החדשה, נוער לתת. סח\"י, נוער לתת (started ש\"ש in תשפ\"ד per page) and התנועה החדשה are NOT on the 2020 MoD list — may be among the newer recognized/trial bodies; unverified officially."
+    },
+    {
+      "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%A0%D7%AA_%D7%A9%D7%99%D7%A8%D7%95%D7%AA",
+      "status": "ok (secondary)",
+      "notes": "Operators list is copied from the 2020 MoD page (cites it, verified 2025-08-09). No newer list."
+    },
+    {
+      "url": "https://www.idf.il/media/ittfnnsm/%D7%9C%D7%9E%D7%94-%D7%9C%D7%A6%D7%90%D7%AA-%D7%9C%D7%A9%D7%A0%D7%AA-%D7%A9%D7%99%D7%A8%D7%95%D7%AA_.pdf",
+      "status": "ok",
+      "notes": "IDF lesson plan 'למה לצאת לשנת שירות?' — points to sorting sites: shinshinim.org, sherut-kibbutz.com, coyo.org.il. No org list."
+    }
+  ],
+  "facts": [
+    {
+      "topic": "eligibility",
+      "fact_he": "שנת שירות מיועדת לבוגרי כיתה י\"ב שעומדים להתגייס לצה\"ל, והיא נעשית לפני הגיוס.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/SiteAssets/Pages/טפסים/הוראת%20אגף%20ביטחוני%20חברתי-%20הכרה%20בגוף%20משלח%20לשנת%20שירות.docx",
+      "source_type": "government"
+    },
+    {
+      "topic": "eligibility",
+      "fact_he": "עושים שנת שירות רק דרך \"גוף משלח\" – ארגון שמשרד הביטחון הכיר בו – ונרשמים ישירות מול הארגון, לא מול צה\"ל.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מיטב/דחיית-גיוס-לטובת-מכינה-שנת-שירות-וגרעינים/",
+      "source_type": "official"
+    },
+    {
+      "topic": "eligibility",
+      "fact_he": "אחרי ההרשמה רוב הארגונים עורכים מיונים, ותהליך המיון שונה מארגון לארגון.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מסלולים-פרוייקטים-וקורסים/שנת-שירות/",
+      "source_type": "official"
+    },
+    {
+      "topic": "deferral",
+      "fact_he": "שנת שירות לא מקצרת ולא מבטלת את השירות הצבאי – היא רק דוחה את הגיוס בשנה.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מסלולים-פרוייקטים-וקורסים/שנת-שירות/",
+      "source_type": "official"
+    },
+    {
+      "topic": "deferral",
+      "fact_he": "אחרי שנרשמת, הארגון מעביר את הפרטים שלך לאגף הביטחוני-חברתי במשרד הביטחון, והוא מסדר את דחיית הגיוס מול צה\"ל בשבילך.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מיטב/דחיית-גיוס-לטובת-מכינה-שנת-שירות-וגרעינים/",
+      "source_type": "official"
+    },
+    {
+      "topic": "deferral",
+      "fact_he": "ההחלטות על דחיית גיוס לשנת שירות מתקבלות עד 9 באפריל; אם לא קיבלת הודעה עד אז, צריך לבדוק את מועד הגיוס שלך באתר מתגייסים.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מיטב/דחיית-גיוס-לטובת-מכינה-שנת-שירות-וגרעינים/",
+      "source_type": "official"
+    },
+    {
+      "topic": "deferral",
+      "fact_he": "מספר הדחיות מוגבל: משרד הביטחון נותן לכל ארגון מכסה של דחיות גיוס בכל שנה.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/SiteAssets/Pages/טפסים/הוראת%20אגף%20ביטחוני%20חברתי-%20הכרה%20בגוף%20משלח%20לשנת%20שירות.docx",
+      "source_type": "government"
+    },
+    {
+      "topic": "deferral",
+      "fact_he": "אם עברת ב-י\"ב מיונים ליחידה מתנדבת (למשל שייטת 13) השיבוץ נשמר לך, אבל בחלק מהמיונים צריך להיבחן שוב, ובחלק מתפקידי המודיעין צריך לקצר את שנת השירות.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מסלולים-פרוייקטים-וקורסים/שנת-שירות/",
+      "source_type": "official"
+    },
+    {
+      "topic": "deferral",
+      "fact_he": "אפשר לעשות שנת שירות רגילה ואז להתגייס כרגיל, או להצטרף לגרעין נח\"ל שבו שנת השירות היא החלק הראשון של מסלול הנח\"ל.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+      "source_type": "government"
+    },
+    {
+      "topic": "deferral",
+      "fact_he": "לשאלות על דחיית הגיוס אפשר לפנות לאגף הביטחוני-חברתי: 03-6084590 או giuss@mod.gov.il.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מיטב/דחיית-גיוס-לטובת-מכינה-שנת-שירות-וגרעינים/",
+      "source_type": "official"
+    },
+    {
+      "topic": "stipend",
+      "fact_he": "הארגון חייב לשלם לך דמי כיס של לפחות 400 ₪ בחודש, ובנוסף לזה הוצאות נסיעה.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/SiteAssets/Pages/טפסים/הוראת%20אגף%20ביטחוני%20חברתי-%20הכרה%20בגוף%20משלח%20לשנת%20שירות.docx",
+      "source_type": "government"
+    },
+    {
+      "topic": "stipend",
+      "fact_he": "לפי הכללים, אסור לארגון לגבות ממך כסף על שנת השירות, ואסור לך לעבוד בעבודה בשכר במהלך השנה.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/SiteAssets/Pages/טפסים/הוראת%20אגף%20ביטחוני%20חברתי-%20הכרה%20בגוף%20משלח%20לשנת%20שירות.docx",
+      "source_type": "government"
+    },
+    {
+      "topic": "stipend",
+      "fact_he": "הארגון חייב לבטח את המתנדבים, להכשיר אותם וללוות אותם במהלך השנה.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/SiteAssets/Pages/טפסים/הוראת%20אגף%20ביטחוני%20חברתי-%20הכרה%20בגוף%20משלח%20לשנת%20שירות.docx",
+      "source_type": "government"
+    },
+    {
+      "topic": "stipend",
+      "fact_he": "לפי מרכז המחקר של הכנסת (2022), נראה שמתנדבי שנת שירות זכאים לנסיעות חינם בתחבורה ציבורית.",
+      "source_url": "https://fs.knesset.gov.il/globaldocs/MMM/c35edf8e-8cf0-ec11-814d-005056aa4246/2_c35edf8e-8cf0-ec11-814d-005056aa4246_11_19871.pdf",
+      "source_type": "government"
+    },
+    {
+      "topic": "timeline",
+      "fact_he": "שנת השירות מתחילה ב-1 בספטמבר ומסתיימת בסוף אוגוסט של השנה הבאה.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/SiteAssets/Pages/טפסים/הוראת%20אגף%20ביטחוני%20חברתי-%20הכרה%20בגוף%20משלח%20לשנת%20שירות.docx",
+      "source_type": "government"
+    },
+    {
+      "topic": "timeline",
+      "fact_he": "ההרשמה לשנת שירות נעשית מול הארגון, והמועד האחרון הוא סוף חודש מרץ של כיתה י\"ב.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מיטב/דחיית-גיוס-לטובת-מכינה-שנת-שירות-וגרעינים/",
+      "source_type": "official"
+    },
+    {
+      "topic": "timeline",
+      "fact_he": "בדרך כלל נרשמים מתחילת כיתה י\"ב ועד פברואר, ואחרי ההרשמה מתקיימים המיונים בכל ארגון.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מסלולים-פרוייקטים-וקורסים/שנת-שירות/",
+      "source_type": "official"
+    },
+    {
+      "topic": "other",
+      "fact_he": "מתנדב בשנת שירות מתנדב לפחות 52 שעות בשבוע, ולא עוסק בשום דבר אחר במהלך השנה.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/SiteAssets/Pages/טפסים/הוראת%20אגף%20ביטחוני%20חברתי-%20הכרה%20בגוף%20משלח%20לשנת%20שירות.docx",
+      "source_type": "government"
+    },
+    {
+      "topic": "other",
+      "fact_he": "מתנדבי שנת שירות לא מחליפים עובדים בשכר, אלא מגיעים כתוספת – דמות בוגרת שעוזרת.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/SiteAssets/Pages/טפסים/הוראת%20אגף%20ביטחוני%20חברתי-%20הכרה%20בגוף%20משלח%20לשנת%20שירות.docx",
+      "source_type": "government"
+    },
+    {
+      "topic": "other",
+      "fact_he": "ההתנדבות היא בתחומים שקבע חוק שירות ביטחון: חינוך, התיישבות ביטחונית ומשק לאומי – למשל בסניפי תנועות נוער, מועדוני נוער, פנימיות, כפרי נוער, קיבוצים ומושבים.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+      "source_type": "government"
+    },
+    {
+      "topic": "other",
+      "fact_he": "בשנת תשפ\"א (2020) היו כ-3,600 מתנדבי שנת שירות מ-30 ארגונים, בכ-370 מקומות ברחבי הארץ.",
+      "source_url": "https://noar.mod.gov.il/CommunityService/Pages/Calling-You.aspx",
+      "source_type": "government"
+    },
+    {
+      "topic": "other",
+      "fact_he": "לפי נתוני משרד הביטחון מ-2022, פעלו 32 גופים משלחים עם כ-3,690 מתנדבים בכ-442 מקומות.",
+      "source_url": "https://fs.knesset.gov.il/globaldocs/MMM/c35edf8e-8cf0-ec11-814d-005056aa4246/2_c35edf8e-8cf0-ec11-814d-005056aa4246_11_19871.pdf",
+      "source_type": "government"
+    },
+    {
+      "topic": "other",
+      "fact_he": "בתחילת 2024, בגלל המלחמה, משרד הביטחון הקדים את הגיוס של חלק ממתנדבי שנות השירות והמכינות באמצע השנה.",
+      "source_url": "https://www.idi.org.il/articles/53624",
+      "source_type": "secondary"
+    },
+    {
+      "topic": "vs_mechina",
+      "fact_he": "גם מכינה קדם-צבאית וגם שנת שירות דוחות את הגיוס בשנה, אבל במכינה רוכשים כלים לפיתוח אישי ולהכנה לצבא, ובשנת שירות מתנדבים בפעילות חברתית בקהילה.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מיטב/דחיית-גיוס-לטובת-מכינה-שנת-שירות-וגרעינים/",
+      "source_type": "official"
+    },
+    {
+      "topic": "vs_mechina",
+      "fact_he": "מכינות קדם-צבאיות מוסדרות בחוק מיוחד (חוק המכינות, 2008) ושנת הלימודים בהן נמשכת עשרה חודשים, ואילו שנת שירות מופעלת על ידי גופים משלחים לפי הוראת משרד הביטחון.",
+      "source_url": "https://fs.knesset.gov.il/globaldocs/MMM/c35edf8e-8cf0-ec11-814d-005056aa4246/2_c35edf8e-8cf0-ec11-814d-005056aa4246_11_19871.pdf",
+      "source_type": "government"
+    },
+    {
+      "topic": "vs_mechina",
+      "fact_he": "במכינות הדתיות צריך להגיש בעצמך בקשה לדחיית גיוס דרך אתר מתגייסים עד סוף מרץ של י\"ב; בשנת שירות הארגון מעביר את הפרטים בשבילך.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מיטב/דחיית-גיוס-לטובת-מכינה-שנת-שירות-וגרעינים/",
+      "source_type": "official"
+    },
+    {
+      "topic": "vs_sherut_leumi",
+      "fact_he": "שנת שירות היא לפני הצבא ולא במקומו – אחריה מתגייסים לצה\"ל.",
+      "source_url": "https://www.mitgaisim.idf.il/כתבות/ראשי/מסלולים-פרוייקטים-וקורסים/שנת-שירות/",
+      "source_type": "official"
+    },
+    {
+      "topic": "vs_sherut_leumi",
+      "fact_he": "שירות לאומי-אזרחי הוא משהו אחר: הוא מיועד לצעירים שקיבלו פטור משירות צבאי או שלא נקראו לשירות, והוא בא במקום השירות הצבאי.",
+      "source_url": "https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2021/71C/2021-71c-303-Sherut-Leumi.docx",
+      "source_type": "government"
+    }
+  ],
+  "crosscheck": [
+    {
+      "name_he": "כנפיים של קרמבו",
+      "on_official_list": true,
+      "name_on_list": "תנועת כנפיים של קרמבו"
+    },
+    {
+      "name_he": "לשובע",
+      "on_official_list": true,
+      "name_on_list": "קדימה לשובע"
+    },
+    {
+      "name_he": "דרכים",
+      "on_official_list": true,
+      "name_on_list": "עמותת דרכים (www.hechalutz.com)"
+    },
+    {
+      "name_he": "החלוץ",
+      "on_official_list": true,
+      "name_on_list": "עמותת דרכים (www.hechalutz.com) — not listed by its own name; hechalutz.com identifies itself as 'עמותת דרכים – מרכז חינוכי להכשרת מנהיגות חלוצית', so החלוץ and דרכים are the same recognized body (one entry)"
+    },
+    {
+      "name_he": "החברה להגנת הטבע",
+      "on_official_list": true,
+      "name_on_list": "החברה להגנת הטבע"
+    },
+    {
+      "name_he": "מרכז מעשה",
+      "on_official_list": true,
+      "name_on_list": "עמותת מרכז מעשה"
+    },
+    {
+      "name_he": "בני עקיבא",
+      "on_official_list": true,
+      "name_on_list": "תנועת בני עקיבא"
+    },
+    {
+      "name_he": "הצופים",
+      "on_official_list": true,
+      "name_on_list": "תנועת הצופים"
+    },
+    {
+      "name_he": "המחנות העולים",
+      "on_official_list": true,
+      "name_on_list": "תנועת המחנות העולים"
+    },
+    {
+      "name_he": "התנועה הקיבוצית",
+      "on_official_list": true,
+      "name_on_list": "התנועה הקיבוצית"
+    },
+    {
+      "name_he": "השומר הצעיר",
+      "on_official_list": true,
+      "name_on_list": "תנועת השומר הצעיר"
+    },
+    {
+      "name_he": "הנוער העובד והלומד",
+      "on_official_list": true,
+      "name_on_list": "תנועת הנוער העובד והלומד"
+    },
+    {
+      "name_he": "עזרא",
+      "on_official_list": false,
+      "name_on_list": ""
+    },
+    {
+      "name_he": "בינ\"ה",
+      "on_official_list": true,
+      "name_on_list": "בינ\"ה- התנועה ליהדות חברתית"
+    },
+    {
+      "name_he": "חוגי סיור",
+      "on_official_list": true,
+      "name_on_list": "חוגי סיור"
+    },
+    {
+      "name_he": "נוע\"ם",
+      "on_official_list": true,
+      "name_on_list": "תנועת נוער מסורתי- נוע\"ם"
+    },
+    {
+      "name_he": "מכבי צעיר",
+      "on_official_list": true,
+      "name_on_list": "תנועת מכבי צעיר"
+    },
+    {
+      "name_he": "בקהילה",
+      "on_official_list": true,
+      "name_on_list": "עמותת בקהילה"
+    },
+    {
+      "name_he": "איגי",
+      "on_official_list": true,
+      "name_on_list": "איגי- ארגון נוער גאה"
+    },
+    {
+      "name_he": "אחריי!",
+      "on_official_list": true,
+      "name_on_list": "אחריי!"
+    },
+    {
+      "name_he": "איילים",
+      "on_official_list": true,
+      "name_on_list": "עמותת איילים"
+    },
+    {
+      "name_he": "השומר החדש",
+      "on_official_list": true,
+      "name_on_list": "השומר החדש"
+    },
+    {
+      "name_he": "אתגרים",
+      "on_official_list": true,
+      "name_on_list": "עמותת אתגרים"
+    },
+    {
+      "name_he": "מד\"א",
+      "on_official_list": true,
+      "name_on_list": "מד\"א"
+    },
+    {
+      "name_he": "בית\"ר",
+      "on_official_list": true,
+      "name_on_list": "תנועת הנוער הלאומי - בית\"ר"
+    }
+  ],
+  "missing_from_our_list": [
+    {
+      "name_he": "האות הבינלאומי לנוער ולצעירים",
+      "url": "www.award.org.il"
+    },
+    {
+      "name_he": "תנועת האיחוד החקלאי",
+      "url": "www.ihudnik.co.il"
+    },
+    {
+      "name_he": "הסוכנות היהודית",
+      "url": "www.shlichut.org.il"
+    },
+    {
+      "name_he": "צמר\"ת",
+      "url": "www.wzo.org.il"
+    },
+    {
+      "name_he": "עמותת קדמה",
+      "url": "www.kedma-edu.org.il"
+    },
+    {
+      "name_he": "עמותת רקמה",
+      "url": "www.rikma.org.il"
+    },
+    {
+      "name_he": "תנועת תרבות",
+      "url": "www.tarbut-mov.co.il"
+    }
+  ]
+}

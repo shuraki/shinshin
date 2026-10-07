@@ -1,0 +1,561 @@
+[
+  {
+    "org_key": "kadima-youth-homes-lasova",
+    "name_he": "רשת בתי הנוער \"קדימה\" של עמותת לשובע",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"רשת בתי הנוער \"קדימה\" של עמותת לשובע, הוכרה ע\"י משרד החינוך והבטחון כ\"ארגון משלח\" וכ\"ארגון נוער\". ככזה, אנו מוסמכים לקבל מתנדבי ומתנדבות שנת שירות ולהשלים עבורן/ם את דחיית השירות הצבאי\" — https://www.kadimanoar.org/pre-army-service",
+    "official_website": {
+      "url": "https://www.kadimanoar.org/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://www.kadimanoar.org/pre-army-service",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://forms.monday.com/forms/b559af98954d224b2b8237d0ad9dd976?r=euc1",
+      "status": "ok"
+    },
+    "program_name_he": "שנת שירות בקדימה",
+    "description_he": "רשת \"קדימה\" של עמותת לשובע מפעילה 22 בתי נוער בשכונות בפריפריה החברתית והגאוגרפית, מקריית שמונה ועד ערד. מתנדבי ומתנדבות שנת השירות מדריכים קבוצת חניכים בבית הנוער: הדרכות, עזרה בשיעורי בית, חניכה אישית, קשר עם בית הספר ועם ההורים וביקורי בית. המתנדבים גרים בדירות קומונה בתוך השכונות שבהן הם פועלים.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "at_risk_youth",
+      "community",
+      "aliyah_integration"
+    ],
+    "regions": [
+      "north",
+      "center",
+      "lowlands",
+      "south"
+    ],
+    "locations_he": [
+      "קריית שמונה",
+      "צפת",
+      "בית שאן",
+      "אופקים",
+      "קריית גת",
+      "ערד",
+      "רחובות",
+      "יבנה",
+      "רמלה",
+      "כפר סבא",
+      "אור יהודה",
+      "פתח תקווה",
+      "פרדס כץ",
+      "נווה שאנן",
+      "שפירא",
+      "בת ים",
+      "יפו"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"גם דירות הקומונה והשירות הלאומי, בהן מתגוררים הצוותים במהלך השירות, ממוקמות בלב השכונות בהן אנו פועלים... בכל דירה מנהלים אורח חיים חברתי וכלכלי משותף\" — https://www.kadimanoar.org/pre-army-service",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"שנת השירות בקדימה מתאימה לבוגרי ובוגרות י\"ב\"; \"מתנדבות ומתנדבי שנת השירות\" — https://www.kadimanoar.org/pre-army-service",
+    "religious_character": "unknown",
+    "religious_evidence": "לא מצוין בעמוד התוכנית.",
+    "requires_movement_membership": false,
+    "nahal_option": "unknown",
+    "framework_type": "social_organization",
+    "cycle": {
+      "registration_status": "open",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": "כלכלה מלאה הכוללת דיור וארוחות צהריים, דמי כיס חודשיים בסך 550 ש\"ח וכרטיס רב-קו לנסיעה חופשית באוטובוסים וברכבות",
+      "selection_process_he": "הרשמה בטופס מקוון (עם תמונת פנים), ולאחר מכן יום הערכה הכולל הצגת פעילות של 4 דקות וראיון אישי. המיונים מתקיימים בכל שנה מאוקטובר עד מרץ.",
+      "evidence": "https://www.kadimanoar.org/pre-army-service (\"לשנת הפעילות תשפ\"ח (2027-28) פתוחה!\"; כותרת הטופס: \"מיונים לשנת השירות \"קדימה\" תשפ\"ח\")"
+    },
+    "contact": {
+      "phone": "050-829-2862",
+      "email": "hrasis@kadimanoar.org",
+      "evidence_url": "https://www.kadimanoar.org/pre-army-service"
+    },
+    "sources": [
+      {
+        "url": "https://www.kadimanoar.org/pre-army-service",
+        "title": "שנת שרות ברשת בתי הנוער קדימה",
+        "type": "official",
+        "supports": "all program fields, contact, stipend, selection, registration status, MoD recognition"
+      },
+      {
+        "url": "https://forms.monday.com/forms/b559af98954d224b2b8237d0ad9dd976?r=euc1",
+        "title": "מיונים לשנת השירות \"קדימה\" תשפ\"ח",
+        "type": "official",
+        "supports": "registration page, 2027-28 cycle"
+      },
+      {
+        "url": "https://www.lasova.org.il/shnat-shirut",
+        "title": "עמותת לשובע — שנת שירות ושירות לאומי",
+        "type": "official",
+        "supports": "Kadima is Lasova's network; same program details"
+      },
+      {
+        "url": "https://www.lasova.org.il/",
+        "title": "עמותת לשובע",
+        "type": "official",
+        "supports": "parent org identity, general contact 03-3731661 / office@lasova.org.il"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "לא מצוין מספר הקומונות, ואין מידע על אופי דתי או על אפשרות למסלול נח\"ל.",
+    "notes": "NOT a confusion: 'Kadima' is the youth-homes network (רשת בתי הנוער קדימה) of עמותת לשובע (Lasova, the food/homeless-aid NGO). Lasova itself has no separate service-year program — its /shnat-shirut page describes the same Kadima program. Correct the name to 'רשת בתי הנוער קדימה (עמותת לשובע)'. Phone 050-829-2862, email hrasis@kadimanoar.org and stipend 550 NIS are CORRECT (contact person on site: עומר שמואלי, רכזת מיונים). '21 communes' is NOT stated anywhere — site says 22 youth homes (בתי נוער), 4–7 volunteers per home, ~6 per commune apartment; remove the commune count. Broken URL https://www.lasova.org.il/registration (404) -> use https://www.kadimanoar.org/pre-army-service (program) and the monday.com form (registration). Page also mentions a שירות לאומי track run with 'עמינדב' for girls. Tel Aviv homes listed: פרדס כץ, נווה שאנן, שפירא (note: פרדס כץ is in Bnei Brak, Neve Sha'anan and Shapira are Tel Aviv neighborhoods) plus בת ים and יפו — these serve asylum-seeker/migrant-worker children. Shorturl https://shorturl.at/sQtUI on page returned 403 to curl; use the monday.com link directly."
+  },
+  {
+    "org_key": "krembo-wings",
+    "name_he": "כנפיים של קרמבו",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"שנת שירות בכנפיים של קרמבו... גרעין שנת השירות הוא חוד החנית של העשייה הקרמבואית\" — https://www.krembo.org.il/shnat-sherut/",
+    "official_website": {
+      "url": "https://www.krembo.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://www.krembo.org.il/shnat-sherut/",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://www.krembo.org.il/shnat-sherut/",
+      "status": "ok"
+    },
+    "program_name_he": "שנת שירות בכנפיים של קרמבו (גרעין שנת השירות)",
+    "description_he": "כנפיים של קרמבו היא תנועת נוער לילדים ובני נוער עם ובלי צרכים מיוחדים, הפועלת בכ-90 סניפים ברחבי הארץ. בשנת השירות הש\"שים משמשים דמויות מובילות בסניפי התנועה (ריכוז, ליווי צוות, הדרכה ובטיחות), ובנוסף מתנדבים בקהילה – בבתי ספר לחינוך מיוחד, בכיתות תקשורת, בגנים ובמרכזי נוער. הש\"שים גרים בקומונות, והתוכנית פתוחה גם לצעירים וצעירות עם מוגבלויות.",
+    "activities": [
+      "special_education",
+      "disability_support",
+      "youth_mentoring",
+      "community",
+      "education"
+    ],
+    "regions": [
+      "north",
+      "haifa_valley",
+      "center",
+      "south"
+    ],
+    "locations_he": [
+      "קריית שמונה",
+      "רמת ישי",
+      "קריית טבעון",
+      "הרצליה",
+      "נתיבות",
+      "אופקים"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"כיום ישנן כ – 4 קומונות – צפון (קריית שמונה), צפון (בית אורון – מסגרת חוץ פנימייתית ברמת ישי וקריית טבעון), שרון (הרצליה) ודרום (נתיבות ואופקים).\" — https://www.krembo.org.il/shnat-sherut/",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"בשנת השירות יפגשו הש\"שים עם חברים מכל חלקי החברה הישראלית. עם ובלי צרכים מיוחדים, גרים במרכז ובפריפריה, דתיים וחילונים, בנים ובנות.\" — https://www.krembo.org.il/shnat-sherut/",
+    "religious_character": "מעורב – דתיים וחילונים",
+    "religious_evidence": "\"דתיים וחילונים, בנים ובנות\" — https://www.krembo.org.il/shnat-sherut/ (אין פירוט על שבת/כשרות)",
+    "requires_movement_membership": false,
+    "nahal_option": "unknown",
+    "framework_type": "youth_movement",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": "השארת פרטים בטופס בעמוד התוכנית; המיונים פתוחים גם למי שאינם פעילים בתנועה. פרטי תהליך המיון ומועדיו לא מפורטים.",
+      "evidence": "https://www.krembo.org.il/shnat-sherut/"
+    },
+    "contact": {
+      "phone": "054-423-8325",
+      "email": "krembo@krembo.org.il",
+      "evidence_url": "https://www.krembo.org.il/shnat-sherut/"
+    },
+    "sources": [
+      {
+        "url": "https://www.krembo.org.il/shnat-sherut/",
+        "title": "שנת שירות בכנפיים של קרמבו",
+        "type": "official",
+        "supports": "program, communes, eligibility, activities, gender/religion mix, contact phone, interest form"
+      },
+      {
+        "url": "https://www.krembo.org.il/",
+        "title": "כנפיים של קרמבו - תנועת נוער לצעירים עם ובלי צרכים מיוחדים",
+        "type": "official",
+        "supports": "official site, office phone 09-8852385, general email"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "לא מצוינים באתר דמי כיס, מועדי ההרשמה והמיונים לתשפ\"ח ואפשרות למסלול נח\"ל.",
+    "notes": "Site claims 5 communes — official page says 'כ-4 קומונות' (Kiryat Shmona; Beit Oron in Ramat Yishai/Kiryat Tivon; Herzliya; Netivot+Ofakim). Phone 09-8852385 is the general office line (correct, but not program-specific); the service-year contact is 054-423-8325. The /שנת-שירות/ Hebrew slug redirects to /shnat-sherut/. Eligibility explicitly includes graduates with disabilities who can function independently. Registration is an interest form on the program page (no dedicated registration URL). General email krembo@krembo.org.il is in the site footer (Cloudflare-obfuscated)."
+  },
+  {
+    "org_key": "hechalutz-derachim",
+    "name_he": "החלוץ (עמותת דרכים – מרכז חינוכי להכשרת מנהיגות חלוצית-ציונית)",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"שנת השירות של החלוץ משלבת בין שני העולמות: התנדבות משמעותית בקהילה לצד תהליך חינוכי מעמיק, אישי וקבוצתי, בדומה לזה שמציעה מכינה.\" — https://hechalutz.com/programs/shnat-sherut/",
+    "official_website": {
+      "url": "https://hechalutz.com/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://hechalutz.com/programs/shnat-sherut/",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://hechalutz.com/programs/shnat-sherut/",
+      "status": "ok"
+    },
+    "program_name_he": "שנת שירות החלוץ – שנת שירות מכינתית",
+    "description_he": "שנת השירות של החלוץ היא \"שנת שירות מכינתית\": התנדבות בקהילה לצד תוכנית לימודים קבוצתית, עם כארבעה שיעורים בשבוע, סמינרים וטיולים. המשתתפים עובדים עם ילדים ובני נוער – עזרה בלימודים, חונכות אישית, הדרכת קבוצות וחוגים – ובחלק מהקומונות מתנדבים גם בחקלאות או בחיזוק יישובי העוטף וגבול הצפון. התוכנית פועלת ב-14 קומונות בצפון, בחיפה ובדרום.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "community",
+      "agriculture",
+      "settlement",
+      "jewish_identity"
+    ],
+    "regions": [
+      "north",
+      "haifa_valley",
+      "lowlands",
+      "south"
+    ],
+    "locations_he": [
+      "באר שבע",
+      "ניצנים",
+      "ניר יצחק",
+      "עין השלושה",
+      "עין הבשור",
+      "ארז",
+      "הרדוף/ציפורי",
+      "אדמית",
+      "קריית אתא",
+      "נשר",
+      "נהריה",
+      "כפר גליקסון",
+      "חיפה"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"חיי הקבוצה בקומונה הם עשירים... הקומונה מתנהלת בעצמאות כלכלית\" — https://hechalutz.com/programs/shnat-sherut/",
+    "gender_structure": "unknown",
+    "gender_evidence": "לא מצוין במפורש בעמוד התוכנית (בטופס ההרשמה יש שדה מגדר בלבד).",
+    "religious_character": "unknown",
+    "religious_evidence": "לא מצוין בעמוד התוכנית; תחומי הלימוד כוללים \"ציונות, יהדות, קהילה, מגדר, פוליטיקה\".",
+    "requires_movement_membership": false,
+    "nahal_option": true,
+    "framework_type": "social_organization",
+    "cycle": {
+      "registration_status": "open",
+      "open_date": "2026-09-15",
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": null,
+      "evidence": "https://hechalutz.com/programs/shnat-sherut/ (\"ההרשמה לתשפ\"ח תיפתח ב-15.9.26\")"
+    },
+    "contact": {
+      "phone": "054-3466531",
+      "email": "shnatsherut@hechalutz.com",
+      "evidence_url": "https://hechalutz.com/programs/shnat-sherut/"
+    },
+    "sources": [
+      {
+        "url": "https://hechalutz.com/programs/shnat-sherut/",
+        "title": "שנת שירות החלוץ - החלוץ",
+        "type": "official",
+        "supports": "program name, description, 14 locations, Nahal, registration opening date, contact, embedded form"
+      },
+      {
+        "url": "https://hechalutz.com/",
+        "title": "החלוץ",
+        "type": "official",
+        "supports": "legal entity: \"עמותת דרכים – מרכז חינוכי להכשרת מנהיגות חלוצית-ציונית (מלכ\"ר) מס' 580331478\""
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "לא מצוינים דמי כיס, תהליך המיון, הרכב מגדרי ואופי דתי.",
+    "notes": "'דרכים' and 'החלוץ' are the SAME org: החלוץ is the brand; the registered nonprofit is עמותת דרכים – מרכז חינוכי להכשרת מנהיגות חלוצית-ציונית (580331478), per the hechalutz.com footer. Display name should be 'החלוץ'. URL https://hechalutz.com/programs/shnat-sherut/ is valid. Program is a שנת שירות (not a מכינה) though described as 'מכינתית'; Hechalutz separately runs מכינות רעות/רבין — don't conflate. The page oddly says 'למכינה יש ארבע עשרה שלוחות' while listing the service-year communes. Nahal: 'אנחנו מעודדים את בוגרי שנת השירות להתגייס ביחד למסלול הנח\"ל'. Registration form is embedded on the program page; per page, 2027-28 (תשפ\"ח) registration opened 15.9.26."
+  },
+  {
+    "org_key": "spni",
+    "name_he": "החברה להגנת הטבע",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"אנחנו בחברה להגנת הטבע מזמינים אתכם ואתכן להצטרף אלינו לשנת שירות (ש\"ש) או לשירות לאומי\" — https://www.teva.org.il/national-service",
+    "official_website": {
+      "url": "https://www.teva.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://www.teva.org.il/national-service",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://teva.project.org.il/cgi-bin/shsh/shsh.pl",
+      "status": "ok"
+    },
+    "program_name_he": "שנת שירות (ש\"ש) ושירות לאומי בחברה להגנת הטבע",
+    "description_he": "בחברה להגנת הטבע אפשר לעשות שנת שירות בשני מסלולים עיקריים: הדרכה בחוגי הסיירות, בחמש יחידות הדרכה ברחבי הארץ, או הדרכה בבתי ספר שדה. הש\"שים מדריכים ילדים, בני נוער ומטיילים בטבע ומשתתפים במאבקים סביבתיים. בתחילת השנה עוברים קורס של כחודשיים, שבסופו מקבלים תעודת מדריך טיולים במערכת החינוך (\"תו תקן\").",
+    "activities": [
+      "nature_environment",
+      "hiking",
+      "education",
+      "youth_mentoring"
+    ],
+    "regions": [
+      "national"
+    ],
+    "locations_he": [
+      "גולן וחרמונים",
+      "גליל",
+      "חוף כרמל",
+      "עפרה",
+      "שקמים",
+      "עין גדי",
+      "הר הנגב",
+      "אילת",
+      "ירושלים (התחנה לחקר ציפורים, עמק הצבאים)"
+    ],
+    "living_arrangement": "mixed",
+    "living_evidence": "חוגי סיירות: \"במהלך השנה תחיו בקומונה עם שותפים לדרך\"; בתי ספר שדה: \"חיים בדירות בתוך בית ספר שדה - 2-3 מתנדבים בחדר\" — https://teva.project.org.il/cgi-webaxy/sal/sal.pl?lang=he&ID=238147_teva&act=show&dbid=pages&dataid=5 ; ...dataid=7",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"מזמינים אתכם ואתכן\" (teva.org.il/national-service); צוותי בית ספר שדה כוללים \"מורות חיילות, ש\"ש ובנות/בני שירות לאומי\" (dataid=7)",
+    "religious_character": "פתוח לדתיים ולחילונים; אופי דתי לא מוגדר",
+    "religious_evidence": "\"שירות לאומי-אזרחי... מיועד לבנות/בנים דתיים וחילונים. שירות לדתיים ודתיות נעשה בבתי ספר שדה: עפרה, שקמים וגולן וחרמונים.\" (מתייחס למסלול השירות הלאומי) — https://teva.project.org.il/cgi-webaxy/sal/sal.pl?lang=he&ID=238147_teva&act=show&dbid=pages&dataid=7",
+    "requires_movement_membership": false,
+    "nahal_option": "unknown",
+    "framework_type": "other",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": "השתתפות במיוני השטח כרוכה בתשלום של 50 ש\"ח (לפי עמוד התהליך במערכת ההרשמה). דמי כיס לא מצוינים.",
+      "selection_process_he": "טופס הרשמה מקוון, מבחן ממוחשב מהבית, יום מיון בשטח הכולל הדרכה, סימולציות וראיון, לפי הצורך יום מיון נוסף במשרדים בתל אביב, ולבסוף מיון שטח מסכם של יומיים.",
+      "evidence": "https://www.teva.org.il/national-service ; https://teva.project.org.il/cgi-webaxy/sal/sal.pl?lang=he&ID=238147_teva&act=show&dbid=pages&dataid=3"
+    },
+    "contact": {
+      "phone": "03-6388622",
+      "email": "Sherut@spni.org.il",
+      "evidence_url": "https://teva.project.org.il/cgi-webaxy/item?index ; https://www.teva.org.il/national-service"
+    },
+    "sources": [
+      {
+        "url": "https://www.teva.org.il/national-service",
+        "title": "שנת שירות (ש\"ש) ושירות לאומי בחברה להגנת הטבע",
+        "type": "official",
+        "supports": "program, tracks, selection stages, email, WhatsApp 0523689655, link to registration form"
+      },
+      {
+        "url": "https://teva.project.org.il/cgi-bin/shsh/shsh.pl",
+        "title": "הרשמה לשנת שירות בחברה להגנת הטבע",
+        "type": "official",
+        "supports": "registration form, phone 03-6388622"
+      },
+      {
+        "url": "https://teva.project.org.il/cgi-webaxy/item?index",
+        "title": "החברה להגנת הטבע - שער (מערכת הרשמה)",
+        "type": "official",
+        "supports": "registration portal, contact"
+      },
+      {
+        "url": "https://teva.project.org.il/cgi-webaxy/sal/sal.pl?lang=he&ID=238147_teva&act=show&dbid=pages&dataid=3",
+        "title": "תהליך המיון",
+        "type": "official",
+        "supports": "selection process, 50 NIS field-selection fee (dates shown are for 2024-25)"
+      },
+      {
+        "url": "https://teva.project.org.il/cgi-webaxy/sal/sal.pl?lang=he&ID=238147_teva&act=show&dbid=pages&dataid=5",
+        "title": "נוער בקהילה - חוגי הסיירות",
+        "type": "official",
+        "supports": "patrol-clubs track, commune living, units"
+      },
+      {
+        "url": "https://teva.project.org.il/cgi-webaxy/sal/sal.pl?lang=he&ID=238147_teva&act=show&dbid=pages&dataid=7",
+        "title": "בית ספר שדה",
+        "type": "official",
+        "supports": "field-school track, locations, housing, religious/national-service note"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "לא ברור אם ההרשמה לשנת תשפ\"ח (2027-28) כבר נפתחה, משום שעמוד התוכנית עדיין מציג את מחזור 2026-2027; גם דמי הכיס אינם מצוינים.",
+    "notes": "The site's URL teva.project.org.il/cgi-bin/shsh/shsh.pl DOES exist and is the live registration form (linked from the official program page as 'לחצו כאן להגשת מועמדות'). Add the official program page https://www.teva.org.il/national-service. As of 2026-10-07 the official page still says 'ההרשמה למיונים לשנת שירות או לשירות לאומי 2026-2027 נפתחה' and a step says 'ההרשמה לשנת הפעילות 2025/26 בעיצומה' — stale, so registration status for 2027-28 is unknown; don't label it open. Older sub-pages mention selection Oct–Dec and course start mid/late July. WhatsApp/SMS for candidates: 0523689655 (messages only, 08:00–17:00). SPNI also offers שירות לאומי tracks — the site should list only the שנת שירות option."
+  },
+  {
+    "org_key": "maase-garin",
+    "name_he": "עמותת מרכז מעשה",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"שנת שירות - גרעין מעשה... למי מיועד: צעירים וצעירות בגילאי 17-19 המעוניינים בשנת התנדבות משמעותית לפני השירות הצבאי\" — https://maase.org.il/programs/%d7%92%d7%a8%d7%a2%d7%99%d7%9f-%d7%9e%d7%a2%d7%a9%d7%94/",
+    "official_website": {
+      "url": "https://maase.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://maase.org.il/programs/%d7%92%d7%a8%d7%a2%d7%99%d7%9f-%d7%9e%d7%a2%d7%a9%d7%94/",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://maasecenter.formtitan.com/ftproject/Gius_Registration",
+      "status": "ok"
+    },
+    "program_name_he": "גרעין מעשה – שנת שירות",
+    "description_he": "גרעין מעשה הוא תוכנית שנת השירות של עמותת מרכז מעשה, שפועלת בקומונות בקהילה ובכפרי ילדים ונוער ברחבי הארץ, מקריית שמונה ועד אילת. המתנדבים משתלבים בכפרי נוער ובפנימיות ומובילים פרויקטים ויוזמות בקהילה. בכל קומונה גרים כעשרה חברים שמנהלים יחד בית משותף, ובסוף השנה אפשר להתגייס במסלול הנח\"ל עם חברי הגרעין.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "at_risk_youth",
+      "community"
+    ],
+    "regions": [
+      "national"
+    ],
+    "locations_he": [
+      "קריית שמונה",
+      "דימונה",
+      "אילת"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"13 קומונות בקהילה ובכפרי ילדים ונוער בפריסה ארצית מקריית שמונה ועד אילת\"; \"יחד עם עוד כ-10 חברים תנהלו בית משותף\" — עמוד התוכנית",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"צעירים וצעירות בגילאי 17-19\" — עמוד התוכנית",
+    "religious_character": "unknown",
+    "religious_evidence": "לא מוגדר בעמוד התוכנית (\"מכל רחבי הארץ ומכל גווני החברה הישראלית\").",
+    "requires_movement_membership": false,
+    "nahal_option": true,
+    "framework_type": "social_organization",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": null,
+      "evidence": "https://maase.org.il/programs/%d7%92%d7%a8%d7%a2%d7%99%d7%9f-%d7%9e%d7%a2%d7%a9%d7%94/"
+    },
+    "contact": {
+      "phone": "050-2005896",
+      "email": "info@maase.org.il",
+      "evidence_url": "https://maase.org.il/programs/%d7%92%d7%a8%d7%a2%d7%99%d7%9f-%d7%9e%d7%a2%d7%a9%d7%94/ (טלפון/וואטסאפ 'גיוס'); https://maase.org.il/contact/ (מייל)"
+    },
+    "sources": [
+      {
+        "url": "https://maase.org.il/programs/%d7%92%d7%a8%d7%a2%d7%99%d7%9f-%d7%9e%d7%a2%d7%a9%d7%94/",
+        "title": "גרעין מעשה - קומונה משותפת - עמותת מרכז מעשה",
+        "type": "official",
+        "supports": "program, communes, eligibility, Nahal, contact, registration link"
+      },
+      {
+        "url": "https://maasecenter.formtitan.com/ftproject/Gius_Registration",
+        "title": "Titan Web (טופס הרשמה)",
+        "type": "official",
+        "supports": "registration link (JS form; contents not verified)"
+      },
+      {
+        "url": "https://maase.org.il/contact/",
+        "title": "צור קשר - מרכז מעשה",
+        "type": "official",
+        "supports": "general email"
+      }
+    ],
+    "confidence": "medium",
+    "gaps_he": "לא מצוינים מועדי הרשמה ומיונים, דמי כיס ותהליך מיון, ואין רשימה מלאה של מיקומי הקומונות.",
+    "notes": "Org name: עמותת מרכז מעשה; program: גרעין מעשה (שנת שירות). Maase also runs many מכינות קדם-צבאיות (מכינת גל, מכינת מעשה בגליל ובנגב, etc.) — those are NOT the shnat sherut; list only גרעין מעשה. Commune count inconsistent: page body says 13 communes, page meta description says 15 — report '13' or avoid a number. Registration form is a formtitan JS form titled 'Gius_Registration' (likely shared across Maase pre-army programs); it loads (200) but its content could not be inspected. Locations listed are only those named in alumni testimonials (Kiryat Shmona, Dimona, Eilat). Phone 050-2005896 is the WhatsApp/'גיוס' line."
+  },
+  {
+    "org_key": "bnei-akiva-shinshin",
+    "name_he": "תנועת בני עקיבא בישראל",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"שינשין הם ראשי התיבות ש\"ש – שנת שירות.\"; \"התוכנית מיועדת עבור מתגייסים מלש\"בים... שלאחר שנת השירות מתגייסים לשירות מלא\" — https://bneiakiva.org.il/joining/shinshin/",
+    "official_website": {
+      "url": "https://bneiakiva.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://bneiakiva.org.il/joining/shinshin/",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://shinshin.bneiakiva.org.il/Site/Views/index.html#!/shinshinApplication",
+      "status": "ok"
+    },
+    "program_name_he": "תוכנית השינשין – גרעיני שנת השירות של בני עקיבא",
+    "description_he": "תוכנית השינשין של בני עקיבא מיועדת לבוגרים ובוגרות דתיים מיד אחרי י\"ב, לפני גיוס מלא לצה\"ל. התוכנית פועלת בכ-15 גרעינים ברחבי הארץ: בכפרי נוער, במוסדות לאנשים עם צרכים מיוחדים, בחוות חקלאיות ובהדרכת טיולים. חלק מהגרעינים מעורבים, והבנים והבנות גרים בהם בדירות נפרדות, וחלקם מיועדים לבנים בלבד או לבנות בלבד.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "at_risk_youth",
+      "special_education",
+      "disability_support",
+      "agriculture",
+      "hiking",
+      "jewish_identity",
+      "aliyah_integration"
+    ],
+    "regions": [
+      "national"
+    ],
+    "locations_he": [
+      "ימין אורד",
+      "נווה עמיאל",
+      "אבנת (יפתח)",
+      "מקווה ישראל (חולון)",
+      "בני ברק (אחוזת שרה)",
+      "כפר חסידים",
+      "הודיות",
+      "קריית אונו (בית נועם)",
+      "נחלת ערן (אופקים)",
+      "גבעות (גוש עציון)",
+      "עמק המעיינות (חוות עדן)",
+      "כפר עציון",
+      "עיר דוד (ירושלים)"
+    ],
+    "living_arrangement": "mixed",
+    "living_evidence": "\"דירות שינשין בכל רחבי הארץ\"; גרעינים בתוך כפרי נוער (למשל \"מרחבים – נווה עמיאל – גרעין לבנים בלבד הפועלים בתוך כפר נוער לבנים\") — https://bneiakiva.org.il/joining/shinshin/",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"חלק מהגרעינים פועלים כגרעין מעורב הכולל בנים ובנות המתגוררים בדירות נפרדות ויש גרעינים הפועלים רק כגרעין ייעודי לבנים או לבנות בנפרד.\" — https://bneiakiva.org.il/joining/shinshin/",
+    "religious_character": "דתי (דתי-לאומי, \"תורה ועבודה\")",
+    "religious_evidence": "\"תכנית קדם צבאית לבנים ובנות דתיים הפועלת לתרום לחברה הישראלית ולבנות שכבת מנהיגות מתוך ערכי תורה ועבודה\"; \"התוכנית מיועדת לבנים ובנות דתיים\" — https://bneiakiva.org.il/joining/shinshin/",
+    "requires_movement_membership": false,
+    "nahal_option": "unknown",
+    "framework_type": "youth_movement",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": "הגשת טופס מועמדות, זימון ליום מיונים (מיון קבוצתי וראיון אישי ו\"שוק חשיפה\" של הגרעינים), ולאחר מכן מיונים בגרעינים ובמוסדות ושיבוץ לפי שאלון בקשות. המיונים מתקיימים בדרך כלל באמצע חשוון (נובמבר).",
+      "evidence": "https://bneiakiva.org.il/joining/shinshin/"
+    },
+    "contact": {
+      "phone": "0523664671",
+      "email": "shinshin@bna.org.il",
+      "evidence_url": "https://bneiakiva.org.il/joining/shinshin/"
+    },
+    "sources": [
+      {
+        "url": "https://bneiakiva.org.il/joining/shinshin/",
+        "title": "שנת שירות בתוכנית השינשין של בני עקיבא",
+        "type": "official",
+        "supports": "program, garinim, gender, religious character, eligibility, selection, contacts, application link"
+      },
+      {
+        "url": "https://shinshin.bneiakiva.org.il/",
+        "title": "רישום לשנת שירות מקוון (אפליקציית רישום)",
+        "type": "official",
+        "supports": "registration system (JS app; title 'רישום לשנת שירות מקוון' from app.js)"
+      },
+      {
+        "url": "https://bneiakiva.org.il/joining/komo/",
+        "title": "הדרך שלך לקומונה מתחילה כאן!",
+        "type": "official",
+        "supports": "shows קומונריות = שירות לאומי track for girls (not shnat sherut)"
+      },
+      {
+        "url": "https://komona.bneiakiva.org.il/",
+        "title": "רישום קומונריות מקוון",
+        "type": "official",
+        "supports": "proves current site URL is the קומונריות (national service) application, not shnat sherut"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "לא מצוינים מועד פתיחת ההרשמה לתשפ\"ח ודמי כיס, ולא ברור אם יש מסלול נח\"ל המשולב בשנת השירות.",
+    "notes": "Current site URL komona.bneiakiva.org.il is WRONG for shnat sherut: it is the online application for קומונריות (app title 'רישום קומונריות מקוון'), which is a שירות לאומי role for girls ('מתמיינת לשנה ראשונה של שירות לאומי צריכה לעבור מיונים מקדימים של הרשות לשירות לאומי'). The service-year program is 'שינשין' — program page https://bneiakiva.org.il/joining/shinshin/, application https://shinshin.bneiakiva.org.il/Site/Views/index.html#!/shinshinApplication. If the site wants to list קומונריות, it should be a separate שירות לאומי entry (is_shnat_sherut: no). Other contacts on page: מירב, רכזת גיוס והכשרות 0523662605 h-shinshin@bna.org.il; יפעת מושקין, רכזת מיון ושיבוץ 02-5696100 hr.hagshama@bna.org.il; HQ 02-5693111. Bnei Akiva also has separate Nahal garinim ('גרעיני הנח\"ל של בני עקיבא') — not stated as a shinshin continuation. Not for yeshiva/midrasha/mechina graduates; some garinim allow combining yeshiva/midrasha study."
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "org_key": "bina",
+    "name_he": "בינ\"ה – מרכז ליהדות חברתית",
+    "is_shnat_sherut": "unclear",
+    "is_shnat_sherut_evidence": "דף נחיתה ישן באתר עדיין מציג: \"שנת שירות \"בארות\" – קחו לעצמכם שנה של חוויה מדהימה לעשייה חברתית קהילתית ייחודית בתל-אביב\" (https://www.bina.org.il/join-shinshin/). אבל הקישור לדף התוכנית (?page_id=53108) מפנה לדף הבית, ה-API מחזיר 401 (דף לא מפורסם), ותפריט \"מכינות קד\"צ ותוכניות מנהיגות צעירה\" בדף הבית (https://www.bina.org.il/) מציג רק מכינות והרצל TLV2, בלי שנת שירות.",
+    "official_website": {
+      "url": "https://www.bina.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://www.bina.org.il/join-shinshin/",
+      "status": "ok (legacy landing page; content appears outdated – still places the annual mechina in south Tel Aviv/Ramat Gan, though it has since moved to Nahariya)"
+    },
+    "registration_page": null,
+    "program_name_he": "שנת השירות \"בארות\"",
+    "description_he": "בינ\"ה הוא ארגון ליהדות ישראלית ולעשייה חברתית, שמפעיל בעיקר מכינות קדם-צבאיות ותוכניות מנהיגות. בעבר הפעיל שנת שירות בשם \"בארות\", שעסקה בעשייה חברתית וקהילתית בתל אביב. דף התוכנית הוסר מהאתר, ולא ברור אם היא פועלת במחזור הקרוב.",
+    "activities": [
+      "community",
+      "education",
+      "youth_mentoring",
+      "jewish_identity"
+    ],
+    "regions": [
+      "center"
+    ],
+    "locations_he": [
+      "תל אביב"
+    ],
+    "living_arrangement": "unknown",
+    "living_evidence": "דף הנחיתה הישן של \"בארות\" לא מציין סידור מגורים. רק לגבי המכינה השנתית (לא שנת השירות) נכתב: \"המתגוררים בדירות המכינה בנהריה\".",
+    "gender_structure": "mixed",
+    "gender_evidence": "בדף הנחיתה מופיעים בוגרים משני המינים: \"רביד אלפון, בוגרת שנת השירות של בינ\"ה\" ו\"אורי ברנע, בוגר שנת שירות בינ\"ה\" (https://www.bina.org.il/join-shinshin/).",
+    "religious_character": "פלורליסטית-חילונית (ברמת הארגון)",
+    "religious_evidence": "בדף הבית: \"יהדות קהילתית פתוחה, שוויונית, שמחה ומחברת\". בדף המכינה: \"לעצב אורח חיים יהודי-חילוני עצמאי\". אין אמירה מפורשת על אופי שנת השירות עצמה, וגם לא על שבת או כשרות.",
+    "requires_movement_membership": "unknown",
+    "nahal_option": "unknown",
+    "framework_type": "social_organization",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": null,
+      "evidence": "https://www.bina.org.il/ (ההודעה \"נפתחה ההרשמה למכינות בינ\"ה לשנת תשפ\"ח\" מתייחסת למכינות בלבד)"
+    },
+    "contact": {
+      "phone": "073-3949628 (כללי); 052-6017766 (\"טלפון גיוסים כללי\", מדף הנחיתה הישן)",
+      "email": "contact@bina.org.il",
+      "evidence_url": "https://www.bina.org.il/"
+    },
+    "sources": [
+      {
+        "url": "https://www.bina.org.il/",
+        "title": "בינ\"ה - הבית של היהדות הישראלית",
+        "type": "official",
+        "supports": "official site, phone, email, current program menu (no service year listed)"
+      },
+      {
+        "url": "https://www.bina.org.il/join-shinshin/",
+        "title": "בינ\"ה – דף הצטרפות (join-shinshin)",
+        "type": "official",
+        "supports": "past existence of שנת שירות בארות in Tel Aviv, recruitment phone, mixed-gender graduates"
+      },
+      {
+        "url": "https://www.bina.org.il/%d7%9e%d7%9b%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa/%d7%94%d7%9e%d7%9b%d7%99%d7%a0%d7%94-%d7%94%d7%a9%d7%a0%d7%aa%d7%99%d7%aa-%d7%9c%d7%9e%d7%a0%d7%94%d7%99%d7%92%d7%95%d7%aa-%d7%9c%d7%90%d7%97%d7%a8%d7%99%d7%95%d7%aa/",
+        "title": "המכינה השנתית למנהיגות – נהריה",
+        "type": "official",
+        "supports": "Bina's main current program is a pre-army mechina, not a service year; secular character"
+      }
+    ],
+    "confidence": "low",
+    "gaps_he": "לא ברור אם שנת השירות \"בארות\" עדיין פועלת. דף התוכנית הוסר מהאתר, ונדרש בירור טלפוני מול הארגון.",
+    "notes": "Current site URL bina.org.il/shnat-sherut does not exist (redirects to homepage) – mark broken. No program called 'שנת ארוגים' was found anywhere on the site or in search; the service-year program name seen on the site is 'בארות' (Beerot), Tel Aviv. The dedicated Beerot page (page_id=53108) is unpublished (redirects to home; WP REST returns 401). Current homepage menu lists only mechinot (Nahariya annual mechina, Puzzle Israeli, Gev'a) and Herzl TLV2 – these are מכינות, not שנת שירות. Phone 073-3949628 is correct (general office). Recommend removing or flagging Bina as 'unverified/likely inactive' unless confirmed by phone."
+  },
+  {
+    "org_key": "sayarut-kkl",
+    "name_he": "חוגי סיירות של קק\"ל",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"שנת שירות בחוגי סיירות של קק\"ל // מחזור תשפ\"ח\" (https://sayarut.org.il/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa/). בדף אודות: \"גוף משלח לשנת שירות ולמסלול הנח\"ל\" (https://sayarut.org.il/%d7%90%d7%95%d7%93%d7%95%d7%aa%d7%99%d7%a0%d7%95/).",
+    "official_website": {
+      "url": "https://sayarut.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://sayarut.org.il/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa/",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://www.coing.co/Sayarut_YS_TSPACH/264062",
+      "status": "ok (coing.co event page: 'תהליך המיון לשנת השירות | שנת שירות בחוגי סיירות מחזור תשפ\"ח')"
+    },
+    "program_name_he": "שנת שירות בחוגי סיירות",
+    "description_he": "בשנת השירות בחוגי סיירות של קק\"ל, כל ש\"ש מדריך שלוש קבוצות קבועות של בני נוער: פעולה שבועית, טיול חודשי בסוף שבוע וטיולים של כמה ימים בחופשות. בנוסף מובילים פרויקטים ירוקים בקהילה ולוקחים חלק באירועי ניווט ובסקרי שטח. הש\"שים גרים בקומונות של 5–7 משתתפים בתשע ערים ברחבי הארץ.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "hiking",
+      "nature_environment",
+      "community"
+    ],
+    "regions": [
+      "north",
+      "haifa_valley",
+      "center",
+      "lowlands",
+      "south"
+    ],
+    "locations_he": [
+      "בית שאן",
+      "עכו",
+      "חיפה",
+      "פרדס חנה",
+      "תל אביב",
+      "בית שמש",
+      "נתיבות",
+      "באר שבע",
+      "דימונה"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"הקומונות בחוגי סיירות מונות כ5-7 ש\"ש שיחד מנהלים חיים משותפים... כיום פרוסות בארץ 9 קומונות של חוגי סיירות\" (https://sayarut.org.il/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa/).",
+    "gender_structure": "unknown",
+    "gender_evidence": "לא נמצאה אמירה מפורשת. בדף מופיעות עדויות של בוגרות (למשל \"דנה חסון, קומונת ירקון\"), כך שגם בנות משתתפות, אבל הרכב הקומונות לא מצוין.",
+    "religious_character": "unknown",
+    "religious_evidence": "לא מצוין בדפים שנבדקו.",
+    "requires_movement_membership": false,
+    "nahal_option": true,
+    "framework_type": "youth_movement",
+    "cycle": {
+      "registration_status": "open",
+      "open_date": "2026-09-01",
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": "שאלון אישי מקוון, ובנובמבר כנסי מיון וחשיפה (המועדים הראשונים: 10.11 ו-16.11). בדצמבר מתקיים מיון שטח של יממה עם לינה, ובינואר ראיון אישי. המתקבלים משתתפים בכנסים במהלך כיתה י\"ב ובקורס מדריכים בקיץ.",
+      "evidence": "https://www.coing.co/Sayarut_YS_TSPACH/264062"
+    },
+    "contact": {
+      "phone": "02-6250337 (וואטסאפ)",
+      "email": "ShinShin@sayarut.org.il",
+      "evidence_url": "https://sayarut.org.il/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa/"
+    },
+    "sources": [
+      {
+        "url": "https://sayarut.org.il/%d7%a9%d7%a0%d7%aa-%d7%a9%d7%99%d7%a8%d7%95%d7%aa/",
+        "title": "שנת שירות - חוגי סיירות קקל",
+        "type": "official",
+        "supports": "program existence (מחזור תשפ\"ח), activities, communes & 9 cities, contact"
+      },
+      {
+        "url": "https://sayarut.org.il/%d7%aa%d7%94%d7%9c%d7%99%d7%9a-%d7%94%d7%9e%d7%99%d7%95%d7%9f-%d7%95%d7%94%d7%94%d7%a8%d7%a9%d7%9e%d7%94/",
+        "title": "תהליך המיון וההרשמה - חוגי סיירות קקל",
+        "type": "official",
+        "supports": "selection process; registration open to non-members ('ההרשמה מיועדת למי שאינו חניך / מדריכה בחוגי סיירות כרגע'); note: page header still says מחזור תשפ\"ז"
+      },
+      {
+        "url": "https://www.coing.co/Sayarut_YS_TSPACH/264062",
+        "title": "תהליך המיון לשנת השירות – coing.co",
+        "type": "official",
+        "supports": "registration open for תשפ\"ח, event window Sep 1 – Dec 1 2026, screening dates 10.11/16.11"
+      },
+      {
+        "url": "https://sayarut.org.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%9e%d7%a9%d7%9a-%d7%9c%d7%a9%d7%a9/",
+        "title": "מסלולי המשך לשש – מסלול גרעין הנחל",
+        "type": "official",
+        "supports": "Nahal garin option, Nahal coordinator email nahalsayarut@gmail.com"
+      },
+      {
+        "url": "https://sayarut.org.il/%d7%90%d7%95%d7%93%d7%95%d7%aa%d7%99%d7%a0%d7%95/",
+        "title": "אודותינו - חוגי סיירות קקל",
+        "type": "official",
+        "supports": "org identity (KKL), 'גוף משלח לשנת שירות ולמסלול הנח\"ל'"
+      },
+      {
+        "url": "https://sayarut.org.il/%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8/",
+        "title": "יצירת קשר - חוגי סיירות קקל",
+        "type": "official",
+        "supports": "regional contacts"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "לא מצוין באתר אם הקומונות מעורבות, מה העלות או דמי הכיס, ומה האופי הדתי של התוכנית.",
+    "notes": "Name correction: the org at sayarut.org.il is 'חוגי סיירות של קק\"ל' (KKL Sayarut Circles), NOT 'חוגי סיור', and it is neither SPNI (החברה להגנת הטבע) nor a Ministry of Education body per its own site. r.sayarut.org.il is the 'מערכת רישום ברוש' for youth-activity enrollment of kids/parents – not service-year registration; do not use it as the service-year registration link. The real service-year registration is the coing.co link. The org also states it is a 'גוף מפעיל בשירות הלאומי' (separate from שנת שירות)."
+  },
+  {
+    "org_key": "noam-masorti",
+    "name_he": "נוע\"ם – נוער מסורתי",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"שנת שירות בנוע״ם ... קומונות ממדבר הערבה ועד הצפון הירוק, מגוון מסגרות להתנדבות חינוכית משמעותית\" (https://www.noamist.org/shinshin).",
+    "official_website": {
+      "url": "https://www.noamist.org/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://www.noamist.org/shinshin",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://www.noamist.org/shinshin",
+      "status": "ok (lead form on the same page; page text still refers to the תשפ\"ז/2026 cycle)"
+    },
+    "program_name_he": "שנת שירות בנוע\"ם",
+    "description_he": "נוע\"ם היא תנועת הנוער של התנועה המסורתית בישראל. בשנת השירות גרים בקומונות של עד שמונה ש\"שים, במסלול עירוני או קיבוצי, ומתנדבים בעבודה חינוכית עם ילדים ובני נוער, ובהם בני נוער עם צרכים מיוחדים ובני נוער בסיכון. לצד ההתנדבות יש לימוד בנושאי זהות יהודית וחברה ישראלית, וברוח יהדות שוויונית ופלורליסטית.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "special_education",
+      "at_risk_youth",
+      "jewish_identity"
+    ],
+    "regions": [
+      "national"
+    ],
+    "locations_he": [],
+    "living_arrangement": "commune",
+    "living_evidence": "\"ברוב הקומונות שלנו יש עד 8 שינשינים, ומלווה קבוצתית צמודה. בין אם תהיו במסלול עירוני או קיבוצי\" (https://www.noamist.org/shinshin).",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"הקומונות משותפות לבנים ובנות\" (https://www.noamist.org/shinshin).",
+    "religious_character": "יהדות מסורתית-שוויונית ופלורליסטית (התנועה המסורתית)",
+    "religious_evidence": "\"התנסות ייחודית בחיי קבוצה הדוגלת ברוח יהדות שוויונית ופלורליסטית\" (https://www.noamist.org/shinshin). \"נוע\"ם הוא ארגון הנוער של התנועה המסורתית בישראל\" (https://www.noamist.org/נוע-ם-והתנועה-המסורתית). לא נמצאה התייחסות לשמירת שבת או כשרות בקומונות.",
+    "requires_movement_membership": "unknown",
+    "nahal_option": true,
+    "framework_type": "youth_movement",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": "קודם משאירים פרטים. אחר כך: שלב א' – יום פתוח (מקוון או פרונטלי) עם אחת הקומונות; שלב ב' – יום מיונים עם סדנאות וראיונות אישיים.",
+      "evidence": "https://www.noamist.org/shinshin (הדף עדיין אומר \"ההרשמה לשנת שירות תשפ\"ז (2026) החלה!\" – לא עודכן למחזור תשפ\"ח)"
+    },
+    "contact": {
+      "phone": "03-7226504 (משרד); 050-4205010 (וואטסאפ בלבד)",
+      "email": "Hagshama@noamist.org (הגשמה); office@noamist.org",
+      "evidence_url": "https://www.noamist.org/shinshin"
+    },
+    "sources": [
+      {
+        "url": "https://www.noamist.org/shinshin",
+        "title": "שנת שירות בנוע״ם",
+        "type": "official",
+        "supports": "program, communes, mixed gender, Nahal option, selection steps, contact"
+      },
+      {
+        "url": "https://www.noamist.org/עלינו",
+        "title": "עלינו | נוע\"ם - האתר הרשמי",
+        "type": "official",
+        "supports": "official name 'נוע\"ם - נוער מסורתי', founded 1977, ~20 branches"
+      },
+      {
+        "url": "https://www.noamist.org/נוע-ם-והתנועה-המסורתית",
+        "title": "נוע\"ם והתנועה המסורתית",
+        "type": "official",
+        "supports": "youth org of the Masorti movement"
+      },
+      {
+        "url": "https://www.noamist.org/copy-of-11",
+        "title": "גרעיני נח\"ל | נוע\"ם",
+        "type": "official",
+        "supports": "Nahal garin track details"
+      }
+    ],
+    "confidence": "medium",
+    "gaps_he": "האתר לא מפרט את מיקומי הקומונות, את מועדי ההרשמה למחזור תשפ\"ח, את העלות, ואם חובה להיות חבר בתנועה.",
+    "notes": "Domain noamist.org is correct (redirects to www.noamist.org, Wix site). Do NOT use noam.org.il – it redirects to noamlisrael.org.il (a different site; returned HTTP 500). Phone 03-7226504 verified in site footer. Program page is /shinshin. Registration text on the page is stale (refers to תשפ\"ז/2026), so 2027-cycle status is unknown."
+  },
+  {
+    "org_key": "maccabi-tzair",
+    "name_he": "המכבי הצעיר",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"שנת השירות היא שנת התנדבות ועשייה קהילתית חברתית בפריפריות הגיאוגרפיות והחברתיות... מפעל שנת השירות החל בתנועה בשנת 2001\" (https://mtz.org.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%9e%d7%94/%d7%a9%d7%a0%d7%aa-%d7%94%d7%a9%d7%99%d7%a8%d7%95%d7%aa/).",
+    "official_website": {
+      "url": "https://mtz.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://mtz.org.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%9e%d7%94/%d7%a9%d7%a0%d7%aa-%d7%94%d7%a9%d7%99%d7%a8%d7%95%d7%aa/",
+      "status": "ok"
+    },
+    "registration_page": null,
+    "program_name_he": "שנת השירות במכבי הצעיר",
+    "description_he": "שנת השירות של תנועת המכבי הצעיר פועלת בשבע קומונות של כשמונה ש\"שים, בערים במרכז ובדרום. ארבעה בקרים בשבוע הש\"שים מתנדבים בבתי ספר, אחר הצהריים הם מפעילים את סניפי התנועה ומתנדבים במועדוני נוער ובמסגרות רווחה. את משק הבית, כולל התקציב, הקומונה מנהלת בעצמה.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "community",
+      "at_risk_youth"
+    ],
+    "regions": [
+      "center",
+      "south"
+    ],
+    "locations_he": [
+      "נתניה",
+      "רמת גן",
+      "חולון",
+      "בת ים",
+      "יבנה",
+      "קריית גת",
+      "באר שבע"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"כיום ישנן 7 קבוצות הגשמה בשכבה. בכל קבוצה יש 8 חברים בממוצע. הקומונות נמצאות בערים: נתניה, רמת גן, חולון, בת ים, יבנה, קריית גת ובאר שבע\" (https://mtz.org.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%9e%d7%94/%d7%a9%d7%a0%d7%aa-%d7%94%d7%a9%d7%99%d7%a8%d7%95%d7%aa/).",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"המתבצעת על ידי נערים ונערות לפני גיוסם לצה\"ל\" (https://mtz.org.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%9e%d7%94/%d7%a9%d7%a0%d7%aa-%d7%94%d7%a9%d7%99%d7%a8%d7%95%d7%aa/). לא נאמר במפורש אם כל קומונה מעורבת.",
+    "religious_character": "unknown",
+    "religious_evidence": "בדף הבית: \"תנועת נוער חינוכית, לאומית, ספורטיבית המושתתת על ערכי היהדות והציונות\" (https://mtz.org.il/). אין התייחסות לשבת, לכשרות או להפרדה.",
+    "requires_movement_membership": "unknown",
+    "nahal_option": true,
+    "framework_type": "youth_movement",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": "תהליך שנתי לשכבת השמיניות בתנועה: ימי חשיפה בבתי ספר, סמינר חתימה (שבסופו חותמים על בקשת דחיית שירות), יום מיונים והעדפות עם ראיונות אישיים, חלוקה לקבוצות וסמינר הקמה. העלייה לשנת השירות באוגוסט.",
+      "evidence": "https://mtz.org.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%9e%d7%94/%d7%aa%d7%94%d7%9c%d7%99%d7%9a-%d7%a9%d7%91%d7%99%d7%a2%d7%99%d7%95%d7%aa-%d7%a9%d7%9e%d7%99%d7%a0%d7%99%d7%95%d7%aa/"
+    },
+    "contact": {
+      "phone": "054-6792003 (מחלקת הגשמה); 03-6773566 (משרד)",
+      "email": "m.hagshama@mtz.org.il",
+      "evidence_url": "https://mtz.org.il/contact/"
+    },
+    "sources": [
+      {
+        "url": "https://mtz.org.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%9e%d7%94/%d7%a9%d7%a0%d7%aa-%d7%94%d7%a9%d7%99%d7%a8%d7%95%d7%aa/",
+        "title": "שנת השירות - מכבי צעיר",
+        "type": "official",
+        "supports": "program existence, 7 communes & cities, weekly structure, mixed (נערים ונערות)"
+      },
+      {
+        "url": "https://mtz.org.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%9e%d7%94/%d7%aa%d7%94%d7%9c%d7%99%d7%9a-%d7%a9%d7%91%d7%99%d7%a2%d7%99%d7%95%d7%aa-%d7%a9%d7%9e%d7%99%d7%a0%d7%99%d7%95%d7%aa/",
+        "title": "תהליך שביעיות - שמיניות - מכבי צעיר",
+        "type": "official",
+        "supports": "selection & timeline (August start)"
+      },
+      {
+        "url": "https://mtz.org.il/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c%d7%99-%d7%94%d7%92%d7%a9%d7%9e%d7%94/%d7%9e%d7%a1%d7%9c%d7%95%d7%9c-%d7%92%d7%a8%d7%a2%d7%99%d7%9f-%d7%94%d7%a0%d7%97%d7%b4%d7%9c/",
+        "title": "מסלול גרעין הנח\"ל - מכבי צעיר",
+        "type": "official",
+        "supports": "Nahal option"
+      },
+      {
+        "url": "https://mtz.org.il/contact/",
+        "title": "יצירת קשר - מכבי צעיר",
+        "type": "official",
+        "supports": "hagshama department phone/email"
+      },
+      {
+        "url": "https://mtz.org.il/",
+        "title": "ראשי - מכבי צעיר",
+        "type": "official",
+        "supports": "official name 'המכבי הצעיר', movement description"
+      }
+    ],
+    "confidence": "medium",
+    "gaps_he": "האתר לא מבהיר אם מי שאינו חבר בתנועה יכול להתמיין, ולא מפרסם מועדי הרשמה, טופס הרשמה או עלות.",
+    "notes": "Official name is 'המכבי הצעיר' (site title uses 'מכבי צעיר'). mtz.org.il correct. Selection process described is aimed at the movement's own 12th-grade cohort (שכבת השמיניות בתנועה); whether outsiders can join is not stated. No online registration form found."
+  },
+  {
+    "org_key": "bakehila",
+    "name_he": "עמותת בקהילה",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"בכל שנה אנו מקבלים עשרות שינשינים שדוחים את השירות הצבאי שלהם בשנה במטרה לתרום מהזמן שלהם לחברה\" (https://bakehila.org.il/shinshin/).",
+    "official_website": {
+      "url": "https://bakehila.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://bakehila.org.il/shinshin/",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://forms.gle/qYztdPpRGED1qtSQ6",
+      "status": "ok (Google Form 'טופס הרשמה לשנת שירות- עמותת בקהילה', accepting responses; no cycle year stated)"
+    },
+    "program_name_he": "שנת השירות בבקהילה",
+    "description_he": "עמותת בקהילה פועלת לצמצום פערים חברתיים בשכונות מוחלשות. הש\"שים גרים בקומונות של 7–9 משתתפים בתוך השכונה, מלווים כיתה בבית הספר לאורך כל היום, חונכים כמה ילדים באופן אישי ומפעילים מרכזי למידה אחר הצהריים. בכל יום ראשון מתקיים יום לימוד לכל הש\"שים.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "at_risk_youth",
+      "community",
+      "social_entrepreneurship"
+    ],
+    "regions": [
+      "jerusalem",
+      "north"
+    ],
+    "locations_he": [
+      "ירושלים (גילה, ארמון הנציב, קריית מנחם, הר חומה)",
+      "קריית שמונה",
+      "כרמיאל",
+      "הגליל העליון"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"גרעין השינשינים מתחלק לשש קומונות... כל קומונה מונה בין שבעה לתשעה מתנדבים. הבית שבו הם גרים נמצא בתוך השכונה שבה הם פועלים\" (https://bakehila.org.il/shinshin/).",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"לרוב, היחס הינו 1/3 בנים ו2/3 בנות – בהתאם למספר התקנים שניתנים ממשרד הביטחון\" (https://bakehila.org.il/shinshin/).",
+    "religious_character": "פלורליסטית",
+    "religious_evidence": "\"בירור מעמיק של הזהות היהודית – ישראלית של הש\"ש, מתוך השקפת עולם פלורליסטית ומאפשרת\" (https://bakehila.org.il/shinshin/). שבתות: \"שבת קומונה מתרחשת אחת לשבועיים ואת אופייה קובעת כל קומונה לעצמה\". אין התייחסות לכשרות.",
+    "requires_movement_membership": false,
+    "nahal_option": "unknown",
+    "framework_type": "social_organization",
+    "cycle": {
+      "registration_status": "open",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": "\"במידת הצורך, כל אחד יוכל לקבל סיוע כלכלי\"",
+      "selection_process_he": "טופס הרשמה מקוון ושאלון אישי. בדצמבר ימי סיור ויום מיון בירושלים (ראיון אישי וסדנה קבוצתית), ותשובות בינואר–פברואר. בין מרץ ליולי ימי הכנה וסמינר חפיפה, ושנת השירות מתחילה באמצע אוגוסט.",
+      "evidence": "https://bakehila.org.il/shinshin/ (\"ההרשמה נפתחה! ההרשמה למחזור הבא\" – ללא שנה; באותו דף מופיע תאריך ישן, \"ספטמבר 2022\")"
+    },
+    "contact": {
+      "phone": "02-6409803",
+      "email": "giyusim@bakehila.org.il (גיוס); info@bakehila.org.il",
+      "evidence_url": "https://bakehila.org.il/shinshin/"
+    },
+    "sources": [
+      {
+        "url": "https://bakehila.org.il/shinshin/",
+        "title": "בקהילה – שנת שירות",
+        "type": "official",
+        "supports": "program, communes, gender ratio, selection timeline, Shabbat, financial aid, recruitment email"
+      },
+      {
+        "url": "https://bakehila.org.il/about/",
+        "title": "בקהילה – אודות",
+        "type": "official",
+        "supports": "commune managers by neighborhood (Kiryat Shmona, Gilo, Armon Hanatziv, Kiryat Menachem, Karmiel & Galil Elyon, Har Homa), founder"
+      },
+      {
+        "url": "https://bakehila.org.il/activities/",
+        "title": "בקהילה – פעילויות",
+        "type": "official",
+        "supports": "activities: school work, tutoring, learning centers, 'יוצרים שינוי' run by service-year volunteers"
+      },
+      {
+        "url": "https://forms.gle/qYztdPpRGED1qtSQ6",
+        "title": "טופס הרשמה לשנת שירות- עמותת בקהילה",
+        "type": "official",
+        "supports": "registration form; 'בואו לעבוד עם ילדים ונוער בירושלים ובגליל העליון'"
+      },
+      {
+        "url": "https://bakehila.org.il/contact/",
+        "title": "בקהילה – יצירת קשר",
+        "type": "official",
+        "supports": "phone, info email, address (דרך חברון 24, ירושלים)"
+      }
+    ],
+    "confidence": "medium",
+    "gaps_he": "לא ברור לאיזה מחזור פתוחה ההרשמה, ויש סתירות באתר לגבי מיקומי הקומונות (למשל חיפה).",
+    "notes": "Not Jerusalem-only: communes in Jerusalem + north (Kiryat Shmona, Karmiel/Upper Galilee). About page also lists 'חיפה נווה יוסף – שנת שירות' but the shinshin page and staff list don't include a Haifa commune – treat Haifa as unconfirmed. Use https://bakehila.org.il/ (no www – www.bakehila.org.il fails to connect). WARNING: the homepage currently contains injected casino spam text (Spanish 'Spin Casino' paragraph with external link) – site appears compromised; still the org's real site. Registration page content is partly stale (mentions Sept 2022)."
+  },
+  {
+    "org_key": "igy",
+    "name_he": "איגי – תנועת הנוער הגאה",
+    "is_shnat_sherut": "yes",
+    "is_shnat_sherut_evidence": "\"שנת השירות של איגי היא שנת התנדבות ייחודית הכוללת מגורים בקומונות... לאיגי 4 קומונות של שנת שירות ברחבי הארץ – תל אביב, חיפה, כרמיאל ובאר שבע\" (https://igy.org.il/forms/shin-shin).",
+    "official_website": {
+      "url": "https://igy.org.il/",
+      "status": "ok",
+      "belongs_to_org": true
+    },
+    "program_page": {
+      "url": "https://igy.org.il/shin-shin",
+      "status": "ok"
+    },
+    "registration_page": {
+      "url": "https://igy.org.il/forms/shin-shin",
+      "status": "ok (lead form for screening; text: 'נותרו מקומות אחרונים', no cycle year)"
+    },
+    "program_name_he": "שנת השירות של איגי",
+    "description_he": "איגי היא תנועת הנוער של הקהילה הלהט\"בית בישראל. הש\"שים גרים בקומונות, מתנדבים בכל בוקר בבית ספר תיכון או בחטיבת ביניים, מדריכים במרכז נוער שכונתי ואחראים על קבוצת נוער להט\"ב באזור. לא חייבים להיות להט\"בים או חברים בתנועה כדי להתמיין.",
+    "activities": [
+      "education",
+      "youth_mentoring",
+      "community"
+    ],
+    "regions": [
+      "haifa_valley",
+      "north",
+      "center",
+      "south"
+    ],
+    "locations_he": [
+      "תל אביב",
+      "חיפה",
+      "כרמיאל",
+      "באר שבע"
+    ],
+    "living_arrangement": "commune",
+    "living_evidence": "\"לאיגי יש 4 קומונות: חיפה, כרמיאל, תל אביב ובאר שבע. בכל קומונה בין 6 ל-14 ש\"שינים\" (https://igy.org.il/shin-shin).",
+    "gender_structure": "mixed",
+    "gender_evidence": "\"בוגרים ובוגרות של כיתה י\"ב... אנחנו מחפשים.ות בני ובנות נוער\" (https://igy.org.il/shin-shin). לא נאמר במפורש שהקומונות מעורבות.",
+    "religious_character": "unknown",
+    "religious_evidence": "לא מצוין בדף שנת השירות. בדף הבית מוזכרות \"קבוצות ייעודיות... לקשת הדתית\" בפעילות הנוער, לא בשנת השירות.",
+    "requires_movement_membership": false,
+    "nahal_option": "unknown",
+    "framework_type": "youth_movement",
+    "cycle": {
+      "registration_status": "unknown",
+      "open_date": null,
+      "deadline": null,
+      "stipend_or_cost_he": null,
+      "selection_process_he": "השארת פרטים בטופס באתר להצטרפות למיונים. פרטי תהליך המיון לא מופיעים באתר.",
+      "evidence": "https://igy.org.il/forms/shin-shin"
+    },
+    "contact": {
+      "phone": null,
+      "email": null,
+      "evidence_url": "https://igy.org.il/contact"
+    },
+    "sources": [
+      {
+        "url": "https://igy.org.il/shin-shin",
+        "title": "איגי – שנת השירות של איגי",
+        "type": "official",
+        "supports": "program, activities, 4 communes & size, open to non-members/non-LGBT"
+      },
+      {
+        "url": "https://igy.org.il/forms/shin-shin",
+        "title": "איגי – טופס שנת שירות",
+        "type": "official",
+        "supports": "registration form, communes of 6-7 friends, cities"
+      },
+      {
+        "url": "https://igy.org.il/join",
+        "title": "איגי - הצטרפו אלינו",
+        "type": "official",
+        "supports": "/join is a general hub linking to activity, volunteering and service year"
+      },
+      {
+        "url": "https://igy.org.il/",
+        "title": "איגי - תנועת הנוער הגאה",
+        "type": "official",
+        "supports": "official name, org description, address אלנבי 43 ת\"א"
+      }
+    ],
+    "confidence": "high",
+    "gaps_he": "האתר לא מפרסם טלפון או מייל, מועדי מיונים למחזור תשפ\"ח, עלות או אפשרות לגרעין נח\"ל.",
+    "notes": "IGY does run a שנת שירות. igy.org.il/join is a general 'join us' hub (youth activity / volunteer / service year), NOT the service-year page – use https://igy.org.il/shin-shin as program page and https://igy.org.il/forms/shin-shin as registration. Official self-description is 'תנועת הנוער הגאה' (not 'ארגון נוער גאה'). Minor inconsistency: shin-shin page says 6–14 per commune, form page says 'עם עוד 6-7 חברים'. Contact page has only a web form; no phone/email published."
+  }
+]
