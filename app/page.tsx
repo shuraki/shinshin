@@ -107,7 +107,7 @@ export default function Home() {
               <div className="bg-blue-50 border border-blue-200 rounded-lg p-8">
                 <p className="text-slate-700 mb-4">תענו על כמה שאלות וניגיד לכם אילו מסגרות כדאי לבדוק</p>
                 <button className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
-                  התחילו את הגיד
+                  התחילו עכשיו
                 </button>
               </div>
             </section>
